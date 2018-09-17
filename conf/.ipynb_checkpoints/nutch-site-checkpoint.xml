@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<!-- Put site-specific property overrides in this file. -->
+
+<configuration>
+
+<property>
+	<name>http.agent.name</name>
+	<value>haena-pepper</value>
+</property>
+
+<property>
+	<name>parser.character.encoding.default</name>
+	<value>utf-8</value>
+	<description>The character encoding to fall back to when no other information is available
+	</description>
+</property>
+
+<property>
+	<name>storage.data.store.class</name>
+	<value>org.apache.gora.sql.store.SqlStore</value>
+	<description>The Gora DataStore class for storing and retrieving data.</description>
+</property>
+
+<property>
+	<name>plugin.includes</name>
+	<value>protocol-httpclient|urlfilter-regex|parse-(html|tika|text|pdf)|index-(basic|anchor|more)|scoring-opic|urlnormalizer-(pass|regex|basic)</value>
+</property>
+<property>
+	    <name>generate.batch.id</name>
+	        <value>*</value>
+	</property>
+<property>
+	<name>db.ignore.internal.links</name>
+	<value>false</value>
+</property>
+
+</configuration>

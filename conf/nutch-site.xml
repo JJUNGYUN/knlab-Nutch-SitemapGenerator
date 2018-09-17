@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<!-- Put site-specific property overrides in this file. -->
+
+<configuration>
+
+<property>
+	<name>http.agent.name</name>
+	<value>haena-pepper</value>
+</property>
+<property>
+	  <name>fetcher.threads.fetch</name>
+	    <value>50</value>
+	      <description>The number of FetcherThreads the fetcher should use. This is also determines the maximum number of requests that are made at once (each FetcherThread handles one connection). The total  number of threads running in distributed mode will be the number of fetcher threads * number of nodes as fetcher has one map task per node.
+      </description>
+			</property>
+
+			<property>
+  <name>fetcher.threads.per.queue</name>
+    <value>100</value>
+     <description>This number is the maximum number of threads that
+        should be allowed to access a queue at one time.</description>
+ </property>
+
+<property>
+	<name>parser.character.encoding.default</name>
+	<value>utf-8</value>
+	<description>The character encoding to fall back to when no other information is available
+	</description>
+</property>
+
+<property>
+	<name>storage.data.store.class</name>
+	<value>org.apache.gora.sql.store.SqlStore</value>
+	<description>The Gora DataStore class for storing and retrieving data.</description>
+</property>
+
+<property>
+	<name>plugin.includes</name>
+	<value>protocol-httpclient|urlfilter-regex|parse-(html|tika|text|pdf)|index-(basic|anchor|more)|scoring-opic|urlnormalizer-(pass|regex|basic)</value>
+</property>
+<property>
+	    <name>generate.batch.id</name>
+	        <value>*</value>
+	</property>
+<property>
+	<name>db.ignore.internal.links</name>
+	<value>false</value>
+</property>
+
+</configuration>
