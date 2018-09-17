@@ -1,0 +1,2654 @@
+CONVERTED PDF IMAGE PATH ALREADY EXIST.
+========== OCR TITLE EXTRACT THREAD START ==========
+TARGET id : com.amazingapprenticeships:http/wp-content/uploads/Governors-How-to-Guide.pdf
+TARGET FILE NAME : Governors-How-to-Guide.pdf
+========== OCR TITLE EXTRACT THREAD END ==========
+========== OCR TITLE EXTRACT THREAD START ==========
+TARGET id : eu.europa.ec:http/health/files/eudralex/vol-4/2011_site_master_file_en.pdf
+TARGET FILE NAME : 2011_site_master_file_en.pdf
+========== OCR TITLE EXTRACT THREAD END ==========
+========== OCR TITLE EXTRACT THREAD START ==========
+TARGET id : eu.europa.ec:http/taxation_customs/sites/taxation/files/resources/documents/taxation/vat/traders/vat_community/vat_in_ec_annexi.pdf
+TARGET FILE NAME : vat_in_ec_annexi.pdf
+========== OCR TITLE EXTRACT THREAD END ==========
+========== OCR TITLE EXTRACT THREAD START ==========
+TARGET id : gov.nist.nvlpubs:http/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf
+TARGET FILE NAME : nistspecialpublication800-145.pdf
+========== OCR TITLE EXTRACT THREAD END ==========
+========== OCR TITLE EXTRACT THREAD START ==========
+TARGET id : uk.co.onlinedisclosures.www:http/wp-content/uploads/post-office-id-checking-service-form.pdf
+TARGET FILE NAME : post-office-id-checking-service-form.pdf
+========== OCR TITLE EXTRACT THREAD END ==========
+========== OCR TITLE EXTRACT THREAD START ==========
+TARGET id : uk.co.slc.www:http/media/525907/slcsfr052012.pdf
+TARGET FILE NAME : slcsfr052012.pdf
+========== OCR TITLE EXTRACT THREAD END ==========
+========== OCR TITLE EXTRACT THREAD START ==========
+TARGET id : uk.gov.cps.www:http/publications/docs/cps_improvement_plan_march_2014.pdf
+TARGET FILE NAME : cps_improvement_plan_march_2014.pdf
+========== OCR TITLE EXTRACT THREAD END ==========
+========== OCR TITLE EXTRACT THREAD START ==========
+TARGET id : uk.gov.nationalarchives.www:http/documents/information-management/crown-rights-assignment-ordnance-survey.pdf
+TARGET FILE NAME : crown-rights-assignment-ordnance-survey.pdf
+TOTAL PAGES : 5
+IMAGE FILE PATH : /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/crown-rights-assignment-ordnance-survey_image_1.png
+IMAGE FILE PATH : /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/crown-rights-assignment-ordnance-survey_image_2.png
+IMAGE FILE PATH : /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/crown-rights-assignment-ordnance-survey_image_3.png
+IMAGE FILE PATH : /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/crown-rights-assignment-ordnance-survey_image_4.png
+IMAGE FILE PATH : /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/crown-rights-assignment-ordnance-survey_image_5.png
+ocrContTitle : Crown Rights Agreement
+Crown Rights Agreement
+(to make provision for the licensing of Crown copyright and
+database rights to Ordnance Survey Limited and the
+assignment to the Crown of copyright and database rights)
+BETWEEN
+THE KEEPER OF PUBLIC RECORDS
+AND
+ORDNANCE SURVEY LIMITED
+DATE a ust 2017
+This Crown Rights Agreement is made on the day of August 2017
+Between
+(1)The Keeper of Public Records, whose principal office is t The National Archives
+Kew, Richmond, Surrey TW9 4DU (The Keeper); and
+Ordnance Survey Limited, a company registered in England (company registration
+number 09121572), whose registered office is at Explorer House, Adanac Drive
+Nursling, Southampton, Hampshire, S016 0AS (Ordnance Survey Limited)
+(2)
+Background
+In 2015, the Secretary of State for Business, Innovation and Skills determined that it
+would be beneficial to restructure the organisation known as Ordnance Survey, by
+converting it from a non-Ministerial government department operating as a trading
+fund within the Department for Business Innovation and Skills (Ordnance Survey
+Trading Fund) into a wholly owned government company limited by shares
+Ordnance Survey Limited, a private company limited by shares, was therefore
+incorporated under the Companies Act 2006. The entire issued share capital of
+Ordnance Survey Limited is owned by the Department for Business, Energy and
+Industrial Strategy (BEIS). All of the functions (including the role of national
+mapping agency of Great Britain and the delivery of the Public Task) and assets of
+Ordnance Survey Trading Fund were transferred to Ordnance Survey Limited on
+the Transfer Date (as defined below)
+Under legislation, Her Majesty the Queen is the first owner of all copyright and
+database rights held by the Crown. As at the Transfer Date, HMSO (as defined
+below) had been appointed by Her Majesty by Letters Patent to hold and administer
+copyright and database rights belonging to the Crown on Her behalf
+C
+Prior to the Transfer Date, HMSO delegated to Ordnance Survey Trading Fund
+under the Delegation of Authority (as defined below), the authority to use, re-use
+and license Crown copyright and database rights in all material produced or
+commissioned by Ordnance Survey Trading Fund
+On the Transfer Date, as a result of the transfer referred to in B above, the
+Delegation of Authority was revoked, but such copyright and database rights remain
+vested in the Crown. The First Crown Rights Agreement (as defined below) set out
+the terms under which Ordnance Survey Limited was licensed to use and re-use the
+Material, and the terms on which Ordnance Survey Limited would assign certain
+copyright and database rights to the Crown
+E
+Her Majesty has now revoked the Letters Patent previously granted to HMSO, and
+has appointed the Keeper by Letters Patent dated 1 July 2017 to hold and
+administer copyright and database rights belonging to the Crown on Her behalf.
+This Agreement therefore makes provision for the handover from HMSO to the
+Keeper and replaces the First Crown Rights Agreement with effect from the
+Effective Date (as defined below)
+2
+Definitions arid interpretation
+1
+Agreement:
+BEIS
+The following terms have the following meanings:
+This Crown Rights Agreement.
+The Secretary of State for Business, Energy and Industrial
+Strategy or, as appropriate, any public body (including the
+Secretary of State for Business, Innovation and Skills) whose
+properties, rights, liabilities or functions are now held by the
+Secretary of State for Business, Energy and Industrial Strategy
+Business Transfer
+Agreement:
+The agreement dated 31 March 2015 between Ordnance Survey
+Trading Fund and Ordnance Survey Limited, for the transfer of
+the entire business of the former to the latter.
+Confidential
+Information:
+Any information that is marked or identified as confidential, or
+that would reasonably be considered to be confidential in nature
+that relates to the affairs of a party and is acquired by the other
+party in anticipation of or as a result of the Agreement
+The document known as the Delegation of Authority between
+HMSO and Ordnance Survey Trading Fund dated 18 October
+2007,
+Delegation of
+Authority:
+Effective Date:
+First Crown Rights
+Agreement
+HMSO:
+1 July 2017.
+The Crown Rights Agreement dated 31 March 2015 between
+HMSO and Ordnance Survey Limited
+The former Controller of Her Majesty's Stationery Office, Mrs
+Carol Tullo, who was previously appointed by Her Majesty under
+Letters Patent dated 1 September 1997 and 20 August 2001
+respectively to hold and administer copyright and database
+rights belonging to the Crown on Her behalf
+The Information Fair Trader Scheme which sets and assesses
+standards for public sector bodies licensing the use and re-use
+of public sector information
+IFTS:
+The Keeper of Public Records, a statutory office defined under
+the Public Records Act 1958 who is also the Chief Executive of
+the entity known as The National Archives. The Keeper's
+functions may in practice be exercised by his staff except where
+the Keeper's personal involvement is specified in this
+Agreement.
+The Keeper
+Individuals or organisations licensed by Ordnance Survey
+Limited to use or re-use the Material
+Licensees:
+Material
+New Material
+Ordnance Survey
+Trading Fund
+Public Task
+The material identified in the Schedule
+The material identified in Part B of the Schedule
+Has the meaning ascribed thereto in paragraph A above.
+Ordnance Survey Limited's statement of Public Task (including
+the obligation to create and maintain the National Geographic
+-3
+Database) as published on the Website and as amended from
+time to time in accordance with the Shareholder Framework
+Document
+The Re-use of Public Sector Information Regulations 2015 (S
+2015/1415) as amended or re-enacted from time to time
+Regulations:
+Shareholder
+Framework Document:
+The document of the same name entered into between
+Ordnance Survey Limited and BEIS, which took effect on the
+Transfer Date, and sets out the core responsibilities of Ordnance
+Survey Limited, and describes the governance framework that
+applies between Ordnance Survey Limited and BEIS
+Term
+The period from the Effective Date until expiry, termination or
+replacement of this Agreement.
+1 April 2015, being the date on which all of the functions and
+assets of Ordnance Survey Trading Fund were transferred to
+Ordnance Survey Limited, as specified in the Business Transfer
+Agreement.
+Transfer Date:
+The National Archives:
+The organisation which is the official archive and publisher for
+the UK government, and for England and Wales, whose
+principal place of business is at Kew, Richmond, Surrey TW9
+4DU
+Website:
+The website http:l/www.os.uk or such other website as
+determined by Ordnance Survey Limited from time to time.
+2
+In this Agreement, unless the context otherwise requires:
+2.1 words in the singular include the plural and vice versa;
+2.2 references to;
+a) a Clause or Schedule are to a clause or schedule of this Agreement;
+b) a party are to a party to the Agreement; and
+c)a statute or statutory provision including any amendment, extension or
+re-enactment of such statute or provision.
+Replacement of First Crown Rights Agreement
+The parties hereby acknowledge and agree that this Agreement:
+3.1has effect from the Effective Date;
+3.2 replaces and supersedes the First Crown Rights Agreement, and
+3.3 has no effect on the vatidity of the First Crown Rights Agreement, or any
+rights or licences granted thereunder or acts carried out pursuant thereto,
+prior to the Effective Date
+Assignment to the Crown
+Ordnance Survey Limited hereby assigns to the Crown all copyright and database
+rights in the New Material and any amendments to the Material which are, during
+the Term, created by Ordnance Survey Limited (including by Ordnance Survey
+Limited's employees and contractors), provided, in the case of contractors, that
+such intellectual property has been assigned to Ordnance Survey Limited further to
+Clause 13
+4.
+Licence to Ordnance Survey Limited
+Subject to Clause 6 and the other terms of this Agreement, the Keeper hereby
+grants to Ordnance Survey Limited an exclusive, royalty free, worldwide right to use
+and re-use the Crown copyright and Crown database rights in the Material
+including to enable Ordnance Survey Limited to:
+5.
+5.1
+fulfil its Public Task, including the creation and maintenance of the National
+Geographic Database, made up of geographic information datasets with
+coverage of all of Great Britain to a consistent specification; and including the
+development of products which can be used by customers of all types for a
+wide range of purposes, and
+5.2
+grant licences pursuant to Clause 8 below
+For the avoidance of doubt, it is acknowledged that the exclusive nature of the
+above licence is to enable the provision of a service in the public interest undeir
+regulation 14(2) of the Regulations
+6.
+This Agreement shall not affect the terms and conditions of any existing licences
+(including those assigned or novated to Ordnance Survey Limited on or following
+the Transfer Date) that were granted by Ordnance Survey Trading Fund under the
+Delegation of Authority or by Ordnance Survey Limited under the First Crown
+Rights Agreement. The terms and conditions of such licences shall continue for the
+period of the relevant licence or until such licence is renewed or terminated
+7.
+Licences from Ordnance Survey Limited
+8.Ordnance Survey Limited may grant to Licensees the non-exclusive right to use and
+/ or re-use the Material (which for the avoidance of doubt, may include Ordnance
+Survey Limited using or re-using the Material itself for purposes outside of its Public
+Task)
+9.Any licences granted by Ordnance Survey Limited pursuant to 5.2 or 8 above will
+be on the condition that such use and/or re-use is in accordance with (i) IFTS, and
+(ii) to the extent that they are applicable, the Regulations
+10.
+Ordnance Survey Limited will comply with the Regulations
+Notwithstanding whether or not Ordnance Survey Limited falls within the definition of "publi
+in the Regulations, it will comply with the Regulations as if it did fall within such definition.
+as set ou
+
+Crown Rights Agreement
+Crown Rights Agreement
+(to make provision for the licensing of Crown copyright and
+database rights to Ordnance Survey Limited and the
+assignment to the Crown of copyright and database rights)
+BETWEEN
+THE KEEPER OF PUBLIC RECORDS
+AND
+ORDNANCE SURVEY LIMITED
+DATE a ust 2017
+This Crown Rights Agreement is made on the day of August 2017
+Between
+(1)The Keeper of Public Records, whose principal office is t The National Archives
+Kew, Richmond, Surrey TW9 4DU (The Keeper); and
+Ordnance Survey Limited, a company registered in England (company registration
+number 09121572), whose registered office is at Explorer House, Adanac Drive
+Nursling, Southampton, Hampshire, S016 0AS (Ordnance Survey Limited)
+(2)
+Background
+In 2015, the Secretary of State for Business, Innovation and Skills determined that it
+would be beneficial to restructure the organisation known as Ordnance Survey, by
+converting it from a non-Ministerial government department operating as a trading
+fund within the Department for Business Innovation and Skills (Ordnance Survey
+Trading Fund) into a wholly owned government company limited by shares
+Ordnance Survey Limited, a private company limited by shares, was therefore
+incorporated under the Companies Act 2006. The entire issued share capital of
+Ordnance Survey Limited is owned by the Department for Business, Energy and
+Industrial Strategy (BEIS). All of the functions (including the role of national
+mapping agency of Great Britain and the delivery of the Public Task) and assets of
+Ordnance Survey Trading Fund were transferred to Ordnance Survey Limited on
+the Transfer Date (as defined below)
+Under legislation, Her Majesty the Queen is the first owner of all copyright and
+database rights held by the Crown. As at the Transfer Date, HMSO (as defined
+below) had been appointed by Her Majesty by Letters Patent to hold and administer
+copyright and database rights belonging to the Crown on Her behalf
+C
+Prior to the Transfer Date, HMSO delegated to Ordnance Survey Trading Fund
+under the Delegation of Authority (as defined below), the authority to use, re-use
+and license Crown copyright and database rights in all material produced or
+commissioned by Ordnance Survey Trading Fund
+On the Transfer Date, as a result of the transfer referred to in B above, the
+Delegation of Authority was revoked, but such copyright and database rights remain
+vested in the Crown. The First Crown Rights Agreement (as defined below) set out
+the terms under which Ordnance Survey Limited was licensed to use and re-use the
+Material, and the terms on which Ordnance Survey Limited would assign certain
+copyright and database rights to the Crown
+E
+Her Majesty has now revoked the Letters Patent previously granted to HMSO, and
+has appointed the Keeper by Letters Patent dated 1 July 2017 to hold and
+administer copyright and database rights belonging to the Crown on Her behalf.
+This Agreement therefore makes provision for the handover from HMSO to the
+Keeper and replaces the First Crown Rights Agreement with effect from the
+Effective Date (as defined below)
+2
+Definitions arid interpretation
+1
+Agreement:
+BEIS
+The following terms have the following meanings:
+This Crown Rights Agreement.
+The Secretary of State for Business, Energy and Industrial
+Strategy or, as appropriate, any public body (including the
+Secretary of State for Business, Innovation and Skills) whose
+properties, rights, liabilities or functions are now held by the
+Secretary of State for Business, Energy and Industrial Strategy
+Business Transfer
+Agreement:
+The agreement dated 31 March 2015 between Ordnance Survey
+Trading Fund and Ordnance Survey Limited, for the transfer of
+the entire business of the former to the latter.
+Confidential
+Information:
+Any information that is marked or identified as confidential, or
+that would reasonably be considered to be confidential in nature
+that relates to the affairs of a party and is acquired by the other
+party in anticipation of or as a result of the Agreement
+The document known as the Delegation of Authority between
+HMSO and Ordnance Survey Trading Fund dated 18 October
+2007,
+Delegation of
+Authority:
+Effective Date:
+First Crown Rights
+Agreement
+HMSO:
+1 July 2017.
+The Crown Rights Agreement dated 31 March 2015 between
+HMSO and Ordnance Survey Limited
+The former Controller of Her Majesty's Stationery Office, Mrs
+Carol Tullo, who was previously appointed by Her Majesty under
+Letters Patent dated 1 September 1997 and 20 August 2001
+respectively to hold and administer copyright and database
+rights belonging to the Crown on Her behalf
+The Information Fair Trader Scheme which sets and assesses
+standards for public sector bodies licensing the use and re-use
+of public sector information
+IFTS:
+The Keeper of Public Records, a statutory office defined under
+the Public Records Act 1958 who is also the Chief Executive of
+the entity known as The National Archives. The Keeper's
+functions may in practice be exercised by his staff except where
+the Keeper's personal involvement is specified in this
+Agreement.
+The Keeper
+Individuals or organisations licensed by Ordnance Survey
+Limited to use or re-use the Material
+Licensees:
+Material
+New Material
+Ordnance Survey
+Trading Fund
+Public Task
+The material identified in the Schedule
+The material identified in Part B of the Schedule
+Has the meaning ascribed thereto in paragraph A above.
+Ordnance Survey Limited's statement of Public Task (including
+the obligation to create and maintain the National Geographic
+-3
+Database) as published on the Website and as amended from
+time to time in accordance with the Shareholder Framework
+Document
+The Re-use of Public Sector Information Regulations 2015 (S
+2015/1415) as amended or re-enacted from time to time
+Regulations:
+Shareholder
+Framework Document:
+The document of the same name entered into between
+Ordnance Survey Limited and BEIS, which took effect on the
+Transfer Date, and sets out the core responsibilities of Ordnance
+Survey Limited, and describes the governance framework that
+applies between Ordnance Survey Limited and BEIS
+Term
+The period from the Effective Date until expiry, termination or
+replacement of this Agreement.
+1 April 2015, being the date on which all of the functions and
+assets of Ordnance Survey Trading Fund were transferred to
+Ordnance Survey Limited, as specified in the Business Transfer
+Agreement.
+Transfer Date:
+The National Archives:
+The organisation which is the official archive and publisher for
+the UK government, and for England and Wales, whose
+principal place of business is at Kew, Richmond, Surrey TW9
+4DU
+Website:
+The website http:l/www.os.uk or such other website as
+determined by Ordnance Survey Limited from time to time.
+2
+In this Agreement, unless the context otherwise requires:
+2.1 words in the singular include the plural and vice versa;
+2.2 references to;
+a) a Clause or Schedule are to a clause or schedule of this Agreement;
+b) a party are to a party to the Agreement; and
+c)a statute or statutory provision including any amendment, extension or
+re-enactment of such statute or provision.
+Replacement of First Crown Rights Agreement
+The parties hereby acknowledge and agree that this Agreement:
+3.1has effect from the Effective Date;
+3.2 replaces and supersedes the First Crown Rights Agreement, and
+3.3 has no effect on the vatidity of the First Crown Rights Agreement, or any
+rights or licences granted thereunder or acts carried out pursuant thereto,
+prior to the Effective Date
+Assignment to the Crown
+Ordnance Survey Limited hereby assigns to the Crown all copyright and database
+rights in the New Material and any amendments to the Material which are, during
+the Term, created by Ordnance Survey Limited (including by Ordnance Survey
+Limited's employees and contractors), provided, in the case of contractors, that
+such intellectual property has been assigned to Ordnance Survey Limited further to
+Clause 13
+4.
+Licence to Ordnance Survey Limited
+Subject to Clause 6 and the other terms of this Agreement, the Keeper hereby
+grants to Ordnance Survey Limited an exclusive, royalty free, worldwide right to use
+and re-use the Crown copyright and Crown database rights in the Material
+including to enable Ordnance Survey Limited to:
+5.
+5.1
+fulfil its Public Task, including the creation and maintenance of the National
+Geographic Database, made up of geographic information datasets with
+coverage of all of Great Britain to a consistent specification; and including the
+development of products which can be used by customers of all types for a
+wide range of purposes, and
+5.2
+grant licences pursuant to Clause 8 below
+For the avoidance of doubt, it is acknowledged that the exclusive nature of the
+above licence is to enable the provision of a service in the public interest undeir
+regulation 14(2) of the Regulations
+6.
+This Agreement shall not affect the terms and conditions of any existing licences
+(including those assigned or novated to Ordnance Survey Limited on or following
+the Transfer Date) that were granted by Ordnance Survey Trading Fund under the
+Delegation of Authority or by Ordnance Survey Limited under the First Crown
+Rights Agreement. The terms and conditions of such licences shall continue for the
+period of the relevant licence or until such licence is renewed or terminated
+7.
+Licences from Ordnance Survey Limited
+8.Ordnance Survey Limited may grant to Licensees the non-exclusive right to use and
+/ or re-use the Material (which for the avoidance of doubt, may include Ordnance
+Survey Limited using or re-using the Material itself for purposes outside of its Public
+Task)
+9.Any licences granted by Ordnance Survey Limited pursuant to 5.2 or 8 above will
+be on the condition that such use and/or re-use is in accordance with (i) IFTS, and
+(ii) to the extent that they are applicable, the Regulations
+10.
+Ordnance Survey Limited will comply with the Regulations
+Notwithstanding whether or not Ordnance Survey Limited falls within the definition of "publi
+in the Regulations, it will comply with the Regulations as if it did fall within such definition.
+as set ou
+
+OCR Title Updated 1 record.
+Total Updated OCR Title Count : 1
+Total Error Count : 0
+IMAGE DIRECTORY FILES DELETED. [ /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/crown-rights-assignment-ordnance-survey_image_1.png ]
+IMAGE DIRECTORY FILES DELETED. [ /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/crown-rights-assignment-ordnance-survey_image_2.png ]
+IMAGE DIRECTORY FILES DELETED. [ /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/crown-rights-assignment-ordnance-survey_image_5.png ]
+IMAGE DIRECTORY FILES DELETED. [ /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/crown-rights-assignment-ordnance-survey_image_3.png ]
+IMAGE DIRECTORY FILES DELETED. [ /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/crown-rights-assignment-ordnance-survey_image_4.png ]
+========== OCR TITLE EXTRACT THREAD END ==========
+========== OCR TITLE EXTRACT THREAD START ==========
+TARGET id : uk.gov.nationalarchives.www:http/documents/letters-patent.pdf
+TARGET FILE NAME : letters-patent.pdf
+TOTAL PAGES : 1
+IMAGE FILE PATH : /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/letters-patent_image_1.png
+ocrContTitle : MON DRO
+LIZABETH THE SECOND by the Grace of God of the United Kingdom of Great
+Britain and Northern Ireland and of Our other Realms and Territories Queen Head of the
+Commonwealth Defender of the Faith To all to whom these Presents shall come Greeting
+Whereas We did by Our Letters Patent under the Great Seal bearing date the twentieth day of
+August in the fiftieth year of Our Reign and in the year of Our Lord Two thousand and one grant
+unto Our trusty and well beloved Mrs. Carol Anne Tullo then Controller of Our Stationery
+Office the Office of Printer to Us of all Acts of Parliament and did thereby appoint her to hold
+and exercise all rights and privileges in connection with copyrights the property of Us during
+Our pleasure Now Know Ye that We do hereby revoke the said Letters Patent And Further
+Know Ye that We of Our especial grace Do by these Presents grant unto Our trusty and well
+beloved Jeffrey Daniel Dominic James Esquire Keeper of Public Records the Office of Printer
+to Us of all and singular Acts of Parliament heretofore printed by the Royal Typographers for
+the time being or hereafter to be printed or purporting so to be by the command or authority of
+Us or of the Parliament of Our United Kingdom To hold and exercise the said Office with all
+privileges thereto belonging during Our pleasure And We do appoint the said Jeffrey Daniel
+Dominic James to hold and exercise during Our pleasure on behalf ofUs Our heirs and
+successors all rights and privileges in connection with such copyrights and database rights as
+now are or maybe from time to time become the property of Us Our heirs and successors as fully
+as if such copyrights and database rights were the property of the said Jeffrey Daniel Dominic
+James In Witness whereof We have caused these Our Letters to be made Patent Witness Ourself
+at Westminster the first day of July in the sixty-sixth year of Our Reign
+BY WARRANT UNDER THE QUEEN'S SIGN MANUAL
+HEATON
+
+MON DRO
+LIZABETH THE SECOND by the Grace of God of the United Kingdom of Great
+Britain and Northern Ireland and of Our other Realms and Territories Queen Head of the
+Commonwealth Defender of the Faith To all to whom these Presents shall come Greeting
+Whereas We did by Our Letters Patent under the Great Seal bearing date the twentieth day of
+August in the fiftieth year of Our Reign and in the year of Our Lord Two thousand and one grant
+unto Our trusty and well beloved Mrs. Carol Anne Tullo then Controller of Our Stationery
+Office the Office of Printer to Us of all Acts of Parliament and did thereby appoint her to hold
+and exercise all rights and privileges in connection with copyrights the property of Us during
+Our pleasure Now Know Ye that We do hereby revoke the said Letters Patent And Further
+Know Ye that We of Our especial grace Do by these Presents grant unto Our trusty and well
+beloved Jeffrey Daniel Dominic James Esquire Keeper of Public Records the Office of Printer
+to Us of all and singular Acts of Parliament heretofore printed by the Royal Typographers for
+the time being or hereafter to be printed or purporting so to be by the command or authority of
+Us or of the Parliament of Our United Kingdom To hold and exercise the said Office with all
+privileges thereto belonging during Our pleasure And We do appoint the said Jeffrey Daniel
+Dominic James to hold and exercise during Our pleasure on behalf ofUs Our heirs and
+successors all rights and privileges in connection with such copyrights and database rights as
+now are or maybe from time to time become the property of Us Our heirs and successors as fully
+as if such copyrights and database rights were the property of the said Jeffrey Daniel Dominic
+James In Witness whereof We have caused these Our Letters to be made Patent Witness Ourself
+at Westminster the first day of July in the sixty-sixth year of Our Reign
+BY WARRANT UNDER THE QUEEN'S SIGN MANUAL
+HEATON
+
+OCR Title Updated 1 record.
+Total Updated OCR Title Count : 2
+Total Error Count : 0
+IMAGE DIRECTORY FILES DELETED. [ /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/letters-patent_image_1.png ]
+========== OCR TITLE EXTRACT THREAD END ==========
+========== OCR TITLE EXTRACT THREAD START ==========
+TARGET id : uk.gov.planningportal.www:http/uploads/pins/hedgrow_guide_for_appellants.pdf
+TARGET FILE NAME : hedgrow_guide_for_appellants.pdf
+========== OCR TITLE EXTRACT THREAD END ==========
+========== OCR TITLE EXTRACT THREAD START ==========
+TARGET id : uk.gov.service.publishing.assets:https/government/uploads/system/uploads/attachment_data/file/183203/department_for_education_sustainable_operations_policy_statement.pdf
+TARGET FILE NAME : department_for_education_sustainable_operations_policy_statement.pdf
+TOTAL PAGES : 1
+IMAGE FILE PATH : /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/department_for_education_sustainable_operations_policy_statement_image_1.png
+ocrContTitle : Department
+for Education
+Sustainable Operations Policy Statement
+The Department for Education is committed to sustainable development and believes it is important to
+prepare young people for the future. Our approach is based on the belief that schools perform better
+when they take responsibility for their own improvement. We want schools to make their own
+judgements on how sustainable development should be reflected in their ethos, day-to-day operations
+and through education for sustainable development. Those judgements should be based on sound
+knowledge and local needs.
+We are also committed to reducing the environmental impact of our own operations. We will conduct
+these to reflect, as far as practicable, best environmental, social and economic sustainability.
+In particular, we shall:
+comply with all applicable legislation, regulations and with other government requirements;
+review our activities and operations regularly to identify environmental aspects and prioritise action to
+address the impacts of these
+maintain an Environmental Management System to pursue sustainability, continual improvement and
+the prevention of pollution. We will keep this under regular review to ensure its robustness and fitness
+for purpose
+monitor and review performance and progress of government estate sustainability targets and any other
+ocally set targets;
+specifically, we will work towards reducing our carbon emissions from our properties and travel
+reducing our waste and increase recycling, reducing water consumption and reducing our impact on the
+surrounding environment
+.
+raise awareness of the sustainable operations agenda across the department through specific training,
+performance information, and publication of this policy statement
+share our experiences and expertise to assist others in the development of their own sustainable
+development improvement plans;
+ensure that procurement of goods and services supports our Sustainable Operations Policy, and
+encourage suppliers and contractors to improve their own environmental performance;
+report performance publicly in line with Cabinet Office and HM Treasury requirements.
+.
+This statement applies to the Department and its Executive Agencies, except where a local policy
+statement has been agreed, and to all individuals working for, or on behalf of the Department.
+The Department's overarching Environmental Management System will be managed in line with
+ISO14001:2004 principles, and maintained by the Department's Sustainable Operations team. This
+policy statement and other relevant documents will be made available on the Department's external
+website and Intranet.
+Chris Wormald
+Permanent Secretary
+July 2012
+Andy Mills
+Property Asset Management Unit
+July 2012
+Version: 09: Review Date: 2013
+
+Department
+for Education
+Sustainable Operations Policy Statement
+The Department for Education is committed to sustainable development and believes it is important to
+prepare young people for the future. Our approach is based on the belief that schools perform better
+when they take responsibility for their own improvement. We want schools to make their own
+judgements on how sustainable development should be reflected in their ethos, day-to-day operations
+and through education for sustainable development. Those judgements should be based on sound
+knowledge and local needs.
+We are also committed to reducing the environmental impact of our own operations. We will conduct
+these to reflect, as far as practicable, best environmental, social and economic sustainability.
+In particular, we shall:
+comply with all applicable legislation, regulations and with other government requirements;
+review our activities and operations regularly to identify environmental aspects and prioritise action to
+address the impacts of these
+maintain an Environmental Management System to pursue sustainability, continual improvement and
+the prevention of pollution. We will keep this under regular review to ensure its robustness and fitness
+for purpose
+monitor and review performance and progress of government estate sustainability targets and any other
+ocally set targets;
+specifically, we will work towards reducing our carbon emissions from our properties and travel
+reducing our waste and increase recycling, reducing water consumption and reducing our impact on the
+surrounding environment
+.
+raise awareness of the sustainable operations agenda across the department through specific training,
+performance information, and publication of this policy statement
+share our experiences and expertise to assist others in the development of their own sustainable
+development improvement plans;
+ensure that procurement of goods and services supports our Sustainable Operations Policy, and
+encourage suppliers and contractors to improve their own environmental performance;
+report performance publicly in line with Cabinet Office and HM Treasury requirements.
+.
+This statement applies to the Department and its Executive Agencies, except where a local policy
+statement has been agreed, and to all individuals working for, or on behalf of the Department.
+The Department's overarching Environmental Management System will be managed in line with
+ISO14001:2004 principles, and maintained by the Department's Sustainable Operations team. This
+policy statement and other relevant documents will be made available on the Department's external
+website and Intranet.
+Chris Wormald
+Permanent Secretary
+July 2012
+Andy Mills
+Property Asset Management Unit
+July 2012
+Version: 09: Review Date: 2013
+
+OCR Title Updated 1 record.
+Total Updated OCR Title Count : 3
+Total Error Count : 0
+IMAGE DIRECTORY FILES DELETED. [ /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/department_for_education_sustainable_operations_policy_statement_image_1.png ]
+========== OCR TITLE EXTRACT THREAD END ==========
+========== OCR TITLE EXTRACT THREAD START ==========
+TARGET id : uk.gov.service.publishing.assets:https/government/uploads/system/uploads/attachment_data/file/693840/19_03_18_Final_Decision.pdf
+TARGET FILE NAME : 19_03_18_Final_Decision.pdf
+TOTAL PAGES : 5
+IMAGE FILE PATH : /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/19_03_18_Final_Decision_image_1.png
+IMAGE FILE PATH : /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/19_03_18_Final_Decision_image_2.png
+IMAGE FILE PATH : /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/19_03_18_Final_Decision_image_3.png
+IMAGE FILE PATH : /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/19_03_18_Final_Decision_image_4.png
+IMAGE FILE PATH : /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/19_03_18_Final_Decision_image_5.png
+ocrContTitle : D/53-55/17-18
+DECISIONS OF THE CERTIFICATION OFFICER ON AN APPLICATION MADE UNDER
+SECTION 108A(1) OF THE TRADE UNION AND LABOUR RELATIONS
+(CONSOLIDATION) ACT 1992
+Mr Michael Rolfe
+POA
+Date of Decision
+19 March 2018
+DECISION
+1. Upon application by Mr Rolfe "the claimant") under section 108A(1) of the Trade
+Union and Labour Relations (Consolidation) Act 1992 (the 1992 Act")
+2. I grant the claimant's application for a declaration that on or around 3 May 2017 the
+Union breached Rule 10.9 by disqualifying Mr Rolfe from holding a NEC position until
+May 2026 when he had not resigned from office during his elected term but ceased to
+be a member of the NEC after 3 May 2017 by virtue of resigning as a Prison Officer
+and not being eligible for membership of the POA until re-joining on 9 June 2017.
+3. I consider that it would be appropriate to make an enforcement order. I order that:
+The NEC remove the disqualification of Mr Rolfe from holding any National
+Executive post which was imposed on him under rule 10.9 following his
+resignation as a Prison Officer on 3 May 2017. This order will take effect
+from the date of this decision.
+4. I dismiss complaints two and three upon withdrawal by Mr Rolfe on the day of the
+hearing
+REASONS
+Mr Rolfe brought this application as a member of the POA ("the Union"). He did so by
+a registration of complaint which was received at the Certification Office on 6 July
+2017. He made a further two complaints on 19 September 2017.
+5.
+6. Following correspondence with my office, Mr Rolfe confirmed his complaints as
+follows
+Complaint 1
+That on or around 3 May 2017 the union breached Rule 10.9 by disqualifying Mr Michael Rolfe
+from holding a NEC position until May 2026 when he had not resigned from office during his
+elected term but ceased to be a member of the NEC after 3 May 2017 by virtue of resigning as
+a Prison Officer and not being eligible for membership of the POA until re-joining on 9 June
+2017.
+Complaint 2
+That on or around 3 May 2017, the union breached its rule 10.7 by disqualifying Mr Michael
+Rolfe from holding a NEC position until 9 June 2022 when he had not lapsed as a member of
+the POA
+Complaint 3
+That on or around 3 May 2017, the union breached its rule 8.8 by determining Mr Michael Rolfe
+was a lapsed member when he was not in arrears for at least 2 months
+7. Immediately before the hearing Mr Rolfe withdrew complaints two and three. These
+complaints were not, therefore, considered at the hearing and consequently I have
+dismissed these.
+8. At the hearing before me Mr Rolfe represented himself. A written witness statement
+and oral evidence was given by Mr Rolfe. The Union was represented by Mr Peter
+Edwards of Counsel. A written witness statement and oral evidence for the Union was
+given by Mr Steve Gillan. There was also in evidence a bundle of documents
+consisting of 441 pages containing correspondence and the rules of the Union. Both
+the Union and the claimant provided skeleton arguments.
+Findings of Fact
+9. Having considered the written and oral evidence and the representations of the
+parties, I find the facts to be as follows:
+a. Mr Rolfe is a Prison Officer and a member of the POA. He was elected as
+National Chair of the Union in November 2015 with his term of office running
+until the end of the Union's Conference in 2021
+b. Mr Rolfe was a Parliamentary candidate in the General Election in June 2017.
+Once his candidature was accepted he was required to resign from his role as
+a Prison Officer.
+c. On 3 May 2017 Mr Rolfe informed the Union's NEC of his candidature, his
+resignation from the Prison Service and the fact that he would no longer be a
+full member of the Union nor a Member of the NEC
+d. The Union treated this letter as Mr Rolfe's resignation as National Chair.
+e. Mr Rolfe was unsuccessful in the General Election. He subsequently returned
+to the Prison Service and re-joined the Union
+2
+f. On 19 June 2017, Mr Rolfe queried the Union's use of the word "resignation'"
+in the Circular to Members 59/2017 issued on 3 May 2017. He said that he
+did not resign from the Union nor from his role as National Chair.
+g. The Union considered his views at its NEC meeting on 28 June 2017. The
+NEC confirmed its view that Mr Rolfe had resigned as National Chair.
+h. The Union also told Mr Rolfe that, as he had resigned from his post as Chair,
+Rule 10.9 applied and Mr Rolfe was not eligible to stand for election to the
+NEC until 2026
+The Relevant Statutory Provisions
+10. The provisions of the 1992 Act which are relevant for the purposes of this application
+are as follows;-
+108A Right to apply to Certification Officer
+(1) A person who claims that there has been a breach or threatened breach of the rules of a
+trade union relating to any of the matters mentioned in subsection (2) may apply to the
+Certification Officer for a declaration to that effect, subject to subsections (3) to (7)
+(2)
+The matters are -
+(a) the appointment or election of a person to, or the removal of a person from, any
+ofice
+(b) disciplinary proceedings by the union (including expulsion);
+(c) the balloting of members on any issue other than industrial action;
+(d) the constitution or proceedings of any executive committee or of any decision-
+making meeting;
+The Relevant Rules of the Union
+11. The rules of the Union which are relevant for the purposes of this application are POA
+Rules:-
+RULE 2 OBJECTS AND POWERS
+a. Powers
+b. Rule 2.2 The Union may do anything incidental or conducive to any of the objects including
+(but not limited to)
+(a) affiliate to relevant bodies
+(b) co-operate with other organisations as consídered appropriate,
+(c) employ full or part-time executive and other staff;
+(d) publish an official journal of the Union, diary and other occasional texts
+and papers,
+advice in accordance with these Rules,
+assistance in relation to any legal, quasi-judicial or disciplinary
+(e) subject to the approval of the Legal Aid Committee, provide initial legal
+(f) subject to the approval of the Legal AidCommittee, provide legal
+proceedings related to a member's work in accordance with these
+Rules
+(g) promote and support nationally and internationally steps to improve
+the conditions or administration of penal and secure establishmenfs
+and Special Hospitals in England, Wales, Northern Ireland, Scotland
+and the Isle of Man
+RULE 4 FULL MEMBERS
+Qualification
+Rule 4.1 The qualification for full membership is employment-
+(a) Any penal or secure establishment, Specíal Hospital, associated training establishment,
+Prison Service establishment, secure units, Private Sector Escort or Custodial Servíces in
+England, Wales, Northern Ireland, Scotland or the Isle of Man; or
+(b) as a paid Officer of the Union
+(c) As a worker within the Criminal Justice System, Home Office or for an organisation
+providing services to any of the establishments described in Rule 4.1(a)
+Rule 4.2 If a full member's employment which qualifies under Rule 4.1 terminates:
+(a) with the member's agreement
+(b) without the member's agreement and the member has not appealed against the
+terminafion within 3 mornths; or
+(c) without the member's agreement and the member has exhausted all rights of appeal;
+fuil membership ceases automnaticaly.
+Entitlement
+Rule 4.3 Full members are entitled to all the rights and benefits given by these Rules
+RULE 7.7 RESİGNATIONS
+Rule 7.7 A member may resign by giving at least one month's prior written notice to the General
+Secretary.
+RULE 8.8 LAPSE OF MEMBERSHIP
+Rule 8.8 If the subscription payable by a member is unpaid for at least 2 months, membership
+lapses automatically. Lapsed members cannot re-join the Union unless they complete a direct
+debit for future payments
+RULE 9.3 OFFICERS
+9.3 (a) The Officers of the Union comprise
+i the Chairman,
+ii the General Secretary,
+iii the Vice Chairmen.
+iv the Deputy General Secretary,
+in that order of authority (except where these Rules provide differently).
+RULE 1O NATIONAL EXECUTIVE COMMITTEE
+Eligibility
+Rule 10.6
+Candidates for election as National Executive Committee members must be
+(a) full members of the Union who are willing to stand, and
+(b) nominated to the General Secretary in writing by Branches in accordance with duly convened
+Branch meetings
+4
+Rule 10.7
+Any member of the Union who lapses in, or is suspended or expelled from, membership cannot
+be elected as a National Executive Committee member until 5 years after rejoining full
+membership of the Union
+Rule 10.8
+A National Executive Committee member
+(a) may retain office even if promoted or transferred to another rank and/or establishment (b)
+ceases to be a National Executive Committee member automatically on ceasing to be a full
+member of the Union
+Rule 10.9
+(a) Any National Committee Member who resigns from office during their elected term or after
+the commencement of any national ballot that they are candidates in, will be disqualified from
+holding any National Executive post for a period of five years after the position would be due for
+re-election
+(b) It is incumbent upon any member of the Union, who is a successful candidate in any national
+election to take up office. Failure to do so will deem them to have resigned and will automatically
+de-bar them from holding any national office for a period of five years after the day when he/she
+would have been due for re-electiorn
+CONSIDERATIONS AND CONCLUSIONS
+Summary of Submissions
+12. Mr Rolfe and the POA have both presented this case to me as being a straightforward
+interpretation of the Rules. They both contend that the position is clear, Mr Rolfe told
+me that his membership of the Union ceased under Rule 4.2 as he no longer met the
+eligibility requirements for full membership under rule 4.1(a) and as a consequence
+he was no longer a member of the NEC or National Chair. His view is that he could
+not have resigned as he had already ceased to be a member of the NEC and National
+Chair of the Union. In his view, it is wrong to treat his letter of 3 May to the Union as a
+resignation letter as he was not in a position to resign from the NEC once his Union
+membership had ceased under Rule 4.2.
+13. The Union is clear that Mr Rolfe's letter of 3 May could only have been a resignation
+letter and that, whatever the intent, it was reasonable for the NEC to have treated it
+as such. The Union also contend that Mr Rolfe's argument is highly technical and
+unmeritorious and that accepting his argument would undermine the purpose of Rule
+10.9.
+Mr Rolfe
+14. Mr Rolfe told me that Rule 10.9 does not apply to him. His position is that, having
+decided to stand for Parliament, he was required to resign from the civil service. As a
+consequence, he became ineligible for Union Membership under Rule 4.1(a) and
+automatically ceased to be a member of the Union under Rule 4.2 and, consequently,
+ceased to be a member of the NEC under Rule 10.8. He argues that these were
+
+D/53-55/17-18
+DECISIONS OF THE CERTIFICATION OFFICER ON AN APPLICATION MADE UNDER
+SECTION 108A(1) OF THE TRADE UNION AND LABOUR RELATIONS
+(CONSOLIDATION) ACT 1992
+Mr Michael Rolfe
+POA
+Date of Decision
+19 March 2018
+DECISION
+1. Upon application by Mr Rolfe "the claimant") under section 108A(1) of the Trade
+Union and Labour Relations (Consolidation) Act 1992 (the 1992 Act")
+2. I grant the claimant's application for a declaration that on or around 3 May 2017 the
+Union breached Rule 10.9 by disqualifying Mr Rolfe from holding a NEC position until
+May 2026 when he had not resigned from office during his elected term but ceased to
+be a member of the NEC after 3 May 2017 by virtue of resigning as a Prison Officer
+and not being eligible for membership of the POA until re-joining on 9 June 2017.
+3. I consider that it would be appropriate to make an enforcement order. I order that:
+The NEC remove the disqualification of Mr Rolfe from holding any National
+Executive post which was imposed on him under rule 10.9 following his
+resignation as a Prison Officer on 3 May 2017. This order will take effect
+from the date of this decision.
+4. I dismiss complaints two and three upon withdrawal by Mr Rolfe on the day of the
+hearing
+REASONS
+Mr Rolfe brought this application as a member of the POA ("the Union"). He did so by
+a registration of complaint which was received at the Certification Office on 6 July
+2017. He made a further two complaints on 19 September 2017.
+5.
+6. Following correspondence with my office, Mr Rolfe confirmed his complaints as
+follows
+Complaint 1
+That on or around 3 May 2017 the union breached Rule 10.9 by disqualifying Mr Michael Rolfe
+from holding a NEC position until May 2026 when he had not resigned from office during his
+elected term but ceased to be a member of the NEC after 3 May 2017 by virtue of resigning as
+a Prison Officer and not being eligible for membership of the POA until re-joining on 9 June
+2017.
+Complaint 2
+That on or around 3 May 2017, the union breached its rule 10.7 by disqualifying Mr Michael
+Rolfe from holding a NEC position until 9 June 2022 when he had not lapsed as a member of
+the POA
+Complaint 3
+That on or around 3 May 2017, the union breached its rule 8.8 by determining Mr Michael Rolfe
+was a lapsed member when he was not in arrears for at least 2 months
+7. Immediately before the hearing Mr Rolfe withdrew complaints two and three. These
+complaints were not, therefore, considered at the hearing and consequently I have
+dismissed these.
+8. At the hearing before me Mr Rolfe represented himself. A written witness statement
+and oral evidence was given by Mr Rolfe. The Union was represented by Mr Peter
+Edwards of Counsel. A written witness statement and oral evidence for the Union was
+given by Mr Steve Gillan. There was also in evidence a bundle of documents
+consisting of 441 pages containing correspondence and the rules of the Union. Both
+the Union and the claimant provided skeleton arguments.
+Findings of Fact
+9. Having considered the written and oral evidence and the representations of the
+parties, I find the facts to be as follows:
+a. Mr Rolfe is a Prison Officer and a member of the POA. He was elected as
+National Chair of the Union in November 2015 with his term of office running
+until the end of the Union's Conference in 2021
+b. Mr Rolfe was a Parliamentary candidate in the General Election in June 2017.
+Once his candidature was accepted he was required to resign from his role as
+a Prison Officer.
+c. On 3 May 2017 Mr Rolfe informed the Union's NEC of his candidature, his
+resignation from the Prison Service and the fact that he would no longer be a
+full member of the Union nor a Member of the NEC
+d. The Union treated this letter as Mr Rolfe's resignation as National Chair.
+e. Mr Rolfe was unsuccessful in the General Election. He subsequently returned
+to the Prison Service and re-joined the Union
+2
+f. On 19 June 2017, Mr Rolfe queried the Union's use of the word "resignation'"
+in the Circular to Members 59/2017 issued on 3 May 2017. He said that he
+did not resign from the Union nor from his role as National Chair.
+g. The Union considered his views at its NEC meeting on 28 June 2017. The
+NEC confirmed its view that Mr Rolfe had resigned as National Chair.
+h. The Union also told Mr Rolfe that, as he had resigned from his post as Chair,
+Rule 10.9 applied and Mr Rolfe was not eligible to stand for election to the
+NEC until 2026
+The Relevant Statutory Provisions
+10. The provisions of the 1992 Act which are relevant for the purposes of this application
+are as follows;-
+108A Right to apply to Certification Officer
+(1) A person who claims that there has been a breach or threatened breach of the rules of a
+trade union relating to any of the matters mentioned in subsection (2) may apply to the
+Certification Officer for a declaration to that effect, subject to subsections (3) to (7)
+(2)
+The matters are -
+(a) the appointment or election of a person to, or the removal of a person from, any
+ofice
+(b) disciplinary proceedings by the union (including expulsion);
+(c) the balloting of members on any issue other than industrial action;
+(d) the constitution or proceedings of any executive committee or of any decision-
+making meeting;
+The Relevant Rules of the Union
+11. The rules of the Union which are relevant for the purposes of this application are POA
+Rules:-
+RULE 2 OBJECTS AND POWERS
+a. Powers
+b. Rule 2.2 The Union may do anything incidental or conducive to any of the objects including
+(but not limited to)
+(a) affiliate to relevant bodies
+(b) co-operate with other organisations as consídered appropriate,
+(c) employ full or part-time executive and other staff;
+(d) publish an official journal of the Union, diary and other occasional texts
+and papers,
+advice in accordance with these Rules,
+assistance in relation to any legal, quasi-judicial or disciplinary
+(e) subject to the approval of the Legal Aid Committee, provide initial legal
+(f) subject to the approval of the Legal AidCommittee, provide legal
+proceedings related to a member's work in accordance with these
+Rules
+(g) promote and support nationally and internationally steps to improve
+the conditions or administration of penal and secure establishmenfs
+and Special Hospitals in England, Wales, Northern Ireland, Scotland
+and the Isle of Man
+RULE 4 FULL MEMBERS
+Qualification
+Rule 4.1 The qualification for full membership is employment-
+(a) Any penal or secure establishment, Specíal Hospital, associated training establishment,
+Prison Service establishment, secure units, Private Sector Escort or Custodial Servíces in
+England, Wales, Northern Ireland, Scotland or the Isle of Man; or
+(b) as a paid Officer of the Union
+(c) As a worker within the Criminal Justice System, Home Office or for an organisation
+providing services to any of the establishments described in Rule 4.1(a)
+Rule 4.2 If a full member's employment which qualifies under Rule 4.1 terminates:
+(a) with the member's agreement
+(b) without the member's agreement and the member has not appealed against the
+terminafion within 3 mornths; or
+(c) without the member's agreement and the member has exhausted all rights of appeal;
+fuil membership ceases automnaticaly.
+Entitlement
+Rule 4.3 Full members are entitled to all the rights and benefits given by these Rules
+RULE 7.7 RESİGNATIONS
+Rule 7.7 A member may resign by giving at least one month's prior written notice to the General
+Secretary.
+RULE 8.8 LAPSE OF MEMBERSHIP
+Rule 8.8 If the subscription payable by a member is unpaid for at least 2 months, membership
+lapses automatically. Lapsed members cannot re-join the Union unless they complete a direct
+debit for future payments
+RULE 9.3 OFFICERS
+9.3 (a) The Officers of the Union comprise
+i the Chairman,
+ii the General Secretary,
+iii the Vice Chairmen.
+iv the Deputy General Secretary,
+in that order of authority (except where these Rules provide differently).
+RULE 1O NATIONAL EXECUTIVE COMMITTEE
+Eligibility
+Rule 10.6
+Candidates for election as National Executive Committee members must be
+(a) full members of the Union who are willing to stand, and
+(b) nominated to the General Secretary in writing by Branches in accordance with duly convened
+Branch meetings
+4
+Rule 10.7
+Any member of the Union who lapses in, or is suspended or expelled from, membership cannot
+be elected as a National Executive Committee member until 5 years after rejoining full
+membership of the Union
+Rule 10.8
+A National Executive Committee member
+(a) may retain office even if promoted or transferred to another rank and/or establishment (b)
+ceases to be a National Executive Committee member automatically on ceasing to be a full
+member of the Union
+Rule 10.9
+(a) Any National Committee Member who resigns from office during their elected term or after
+the commencement of any national ballot that they are candidates in, will be disqualified from
+holding any National Executive post for a period of five years after the position would be due for
+re-election
+(b) It is incumbent upon any member of the Union, who is a successful candidate in any national
+election to take up office. Failure to do so will deem them to have resigned and will automatically
+de-bar them from holding any national office for a period of five years after the day when he/she
+would have been due for re-electiorn
+CONSIDERATIONS AND CONCLUSIONS
+Summary of Submissions
+12. Mr Rolfe and the POA have both presented this case to me as being a straightforward
+interpretation of the Rules. They both contend that the position is clear, Mr Rolfe told
+me that his membership of the Union ceased under Rule 4.2 as he no longer met the
+eligibility requirements for full membership under rule 4.1(a) and as a consequence
+he was no longer a member of the NEC or National Chair. His view is that he could
+not have resigned as he had already ceased to be a member of the NEC and National
+Chair of the Union. In his view, it is wrong to treat his letter of 3 May to the Union as a
+resignation letter as he was not in a position to resign from the NEC once his Union
+membership had ceased under Rule 4.2.
+13. The Union is clear that Mr Rolfe's letter of 3 May could only have been a resignation
+letter and that, whatever the intent, it was reasonable for the NEC to have treated it
+as such. The Union also contend that Mr Rolfe's argument is highly technical and
+unmeritorious and that accepting his argument would undermine the purpose of Rule
+10.9.
+Mr Rolfe
+14. Mr Rolfe told me that Rule 10.9 does not apply to him. His position is that, having
+decided to stand for Parliament, he was required to resign from the civil service. As a
+consequence, he became ineligible for Union Membership under Rule 4.1(a) and
+automatically ceased to be a member of the Union under Rule 4.2 and, consequently,
+ceased to be a member of the NEC under Rule 10.8. He argues that these were
+
+OCR Title Updated 1 record.
+Total Updated OCR Title Count : 4
+Total Error Count : 0
+IMAGE DIRECTORY FILES DELETED. [ /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/19_03_18_Final_Decision_image_3.png ]
+IMAGE DIRECTORY FILES DELETED. [ /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/19_03_18_Final_Decision_image_5.png ]
+IMAGE DIRECTORY FILES DELETED. [ /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/19_03_18_Final_Decision_image_1.png ]
+IMAGE DIRECTORY FILES DELETED. [ /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/19_03_18_Final_Decision_image_2.png ]
+IMAGE DIRECTORY FILES DELETED. [ /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/19_03_18_Final_Decision_image_4.png ]
+========== OCR TITLE EXTRACT THREAD END ==========
+========== OCR TITLE EXTRACT THREAD START ==========
+TARGET id : uk.gov.service.publishing.assets:https/government/uploads/system/uploads/attachment_data/file/705100/vtl308-refund-of-tax-surrender-trade-plate.pdf
+TARGET FILE NAME : vtl308-refund-of-tax-surrender-trade-plate.pdf
+TOTAL PAGES : 1
+IMAGE FILE PATH : /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/vtl308-refund-of-tax-surrender-trade-plate_image_1.png
+ocrContTitle : Driver & Vehicle
+Licensing
+Application for a refund of tax
+on surrender of a trade plate
+For more information go to www.gov.uk/trade-licence-plates
+VTL308
+l Agency
+1 Notes to help you
+3 Declaration
+Use this form only if you are returning a trade plate for refund.
+I claim a refund of vehicle tax on a licence that was issued to me
+surrender the:
+front plate
+To get a refund for each full calendar month left on the licence
+you must post this filled in form to us before the first day of the
+rear plate
+I declare that items have not been returned due to
+month you want the refund from
+Send the completed form to the DVLA, Swansea, SA99 1DZ.
+The front and rear plates must be surrendered. If the plates
+Date plates lost/stolen
+are not available you must give the reason why in section 3.
+You will get a refund for each full calendar month still to run on the
+licence at the time you apply for the refund and surrender the trade
+plates -not the date you ceased to use the plates or licence
+You should receive your refund within 4 weeks. Please allow 4 week:s
+before contacting us. You can contact us by phoning 0300 300 1495,
+phone lines are open between 8.30am and 4.30pm on Monday to Friday
+A charge may be made for any missing or damaged item(s) which will
+be deducted from any refund payable
+Trade plates are the property of the Secretary of State for Transport
+and must not be kept or used by any unauthorised person(s)
+I further declare that any missing item was lost in the following
+circumstances
+I undertake to return any missing item if later found
+Signature
+Name (in CAPITAL LETTERS)
+If signing for a partnership, limited company or other company, give your
+Date
+position in the business (for example, motor trader, partner or director)
+2 Your details
+Official use only
+please read the notes above before you fill in this form
+DVLA receipt
+stamp
+write clearly in black ink and CAPITAL LETTERS
+e tick boxes where appropriate
+Trade plate number:
+Holder number (to be entered if known)
+Date of expiry of licence
+Deduction cost
+Unexpired complete months
+lype of licence:
+All vehicles
+(except motorcycles)
+Name and address of trade licence holder
+Motorcycles onlyAll vehicles
+Rate of duty
+Refund amount
+and motorcycles)
+Data protection
+DVLA handles your personal data in accordance with road vehicle
+law and data protection laws. The law allows us to release your data
+to the police and other enforcement bodies. We also provide data
+to other parties where the law allows it. For further information about
+how we process your data, your rights and who to contact, see our
+privacy notice at www.gov.uk/dvla/privacy-policy or request a written
+copy by phoning 0300 790 6106
+Post town:
+Postcode
+Please give your phone number in case we need to get in touch
+Keep up to date
+with our latest news
+and services
+gov.uk/dvla
+CSE
+INVESTORS
+S
+IN PEOPLE
+2/18
+
+Driver & Vehicle
+Licensing
+Application for a refund of tax
+on surrender of a trade plate
+For more information go to www.gov.uk/trade-licence-plates
+VTL308
+l Agency
+1 Notes to help you
+3 Declaration
+Use this form only if you are returning a trade plate for refund.
+I claim a refund of vehicle tax on a licence that was issued to me
+surrender the:
+front plate
+To get a refund for each full calendar month left on the licence
+you must post this filled in form to us before the first day of the
+rear plate
+I declare that items have not been returned due to
+month you want the refund from
+Send the completed form to the DVLA, Swansea, SA99 1DZ.
+The front and rear plates must be surrendered. If the plates
+Date plates lost/stolen
+are not available you must give the reason why in section 3.
+You will get a refund for each full calendar month still to run on the
+licence at the time you apply for the refund and surrender the trade
+plates -not the date you ceased to use the plates or licence
+You should receive your refund within 4 weeks. Please allow 4 week:s
+before contacting us. You can contact us by phoning 0300 300 1495,
+phone lines are open between 8.30am and 4.30pm on Monday to Friday
+A charge may be made for any missing or damaged item(s) which will
+be deducted from any refund payable
+Trade plates are the property of the Secretary of State for Transport
+and must not be kept or used by any unauthorised person(s)
+I further declare that any missing item was lost in the following
+circumstances
+I undertake to return any missing item if later found
+Signature
+Name (in CAPITAL LETTERS)
+If signing for a partnership, limited company or other company, give your
+Date
+position in the business (for example, motor trader, partner or director)
+2 Your details
+Official use only
+please read the notes above before you fill in this form
+DVLA receipt
+stamp
+write clearly in black ink and CAPITAL LETTERS
+e tick boxes where appropriate
+Trade plate number:
+Holder number (to be entered if known)
+Date of expiry of licence
+Deduction cost
+Unexpired complete months
+lype of licence:
+All vehicles
+(except motorcycles)
+Name and address of trade licence holder
+Motorcycles onlyAll vehicles
+Rate of duty
+Refund amount
+and motorcycles)
+Data protection
+DVLA handles your personal data in accordance with road vehicle
+law and data protection laws. The law allows us to release your data
+to the police and other enforcement bodies. We also provide data
+to other parties where the law allows it. For further information about
+how we process your data, your rights and who to contact, see our
+privacy notice at www.gov.uk/dvla/privacy-policy or request a written
+copy by phoning 0300 790 6106
+Post town:
+Postcode
+Please give your phone number in case we need to get in touch
+Keep up to date
+with our latest news
+and services
+gov.uk/dvla
+CSE
+INVESTORS
+S
+IN PEOPLE
+2/18
+
+OCR Title Updated 1 record.
+Total Updated OCR Title Count : 5
+Total Error Count : 0
+IMAGE DIRECTORY FILES DELETED. [ /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/vtl308-refund-of-tax-surrender-trade-plate_image_1.png ]
+========== OCR TITLE EXTRACT THREAD END ==========
+========== OCR TITLE EXTRACT THREAD START ==========
+TARGET id : uk.gov.www:https/government/uploads/system/uploads/attachment_data/file/237086/IFTScommitment.pdf
+TARGET FILE NAME : IFTScommitment.pdf
+TOTAL PAGES : 1
+IMAGE FILE PATH : /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/IFTScommitment_image_1.png
+ocrContTitle : DCD
+MISs F SEDGWICK, DIRECTOR OF
+INTELLECTUAL PROPERTY RIGHTS
+Defence
+Commercial
+Directorate
+D/IPR
+MoD Abbey Wood
+Poplar 2 #2218
+Bristol
+BS34 8JH
+Direct line: 0117-91-32855
+Facsimile: 0117-91-32929
+e-mail
+DIPR-D@mod.uk
+Our Ref D/IPR/1X/E/27
+Your Ref:
+Open Letter
+Date
+16" November 2007
+INFORMATION FAIR TRADE SCHEME COMMITMENT
+I am personally committed to making sure that we trade in information fairly. To show the
+strength of this commitment, my organisation has achieved Information Fair Trader
+accreditation from the Controller of Her Majesty's Stationery Office (HMSO). In order to
+maintain the standards achieved during accreditation I will ensure that we have the
+necessary systems and checks in piace to enable me to support the following statement with
+confidence.
+I will ensure that we strictly follow an open and transparent system of trading that meets the
+principles of the Competition Act 1998. My aim is that, subject to applicable legislation and
+wider MOD policy constraints, we can meet the needs of anyone who applies for a licence to
+re-use information that falls within my delegated authority for any purpose. We will publish
+our policy on reuse on our website and apply it fairly and equitably
+We set prices, and methods for determining prices (such as royalty schemes), in line with
+applicable HMSO guidance and industry best practice. We publish them on our website and
+apply them fairly and equitably. Any exceptions are described in full on the website and are
+available to anyone who qualifies for them
+I am committed to reducing as far as possible the administrative burden on people who re-
+use public sector information. I will make sure that where appropriate we use processes for
+trading information that are in line with those of the rest of the public sector.
+I will investigate any complaints I receive that my organisation has broken this commitment
+and I will make the results of these investigations available to the Office of Public Sector
+Information. If the OPSI decide to review a complaint, I will, subject to the applicable security
+requirements being met, allow the OPSI review team to see the relevant staff and records.
+Freda Sedgwick
+
+DCD
+MISs F SEDGWICK, DIRECTOR OF
+INTELLECTUAL PROPERTY RIGHTS
+Defence
+Commercial
+Directorate
+D/IPR
+MoD Abbey Wood
+Poplar 2 #2218
+Bristol
+BS34 8JH
+Direct line: 0117-91-32855
+Facsimile: 0117-91-32929
+e-mail
+DIPR-D@mod.uk
+Our Ref D/IPR/1X/E/27
+Your Ref:
+Open Letter
+Date
+16" November 2007
+INFORMATION FAIR TRADE SCHEME COMMITMENT
+I am personally committed to making sure that we trade in information fairly. To show the
+strength of this commitment, my organisation has achieved Information Fair Trader
+accreditation from the Controller of Her Majesty's Stationery Office (HMSO). In order to
+maintain the standards achieved during accreditation I will ensure that we have the
+necessary systems and checks in piace to enable me to support the following statement with
+confidence.
+I will ensure that we strictly follow an open and transparent system of trading that meets the
+principles of the Competition Act 1998. My aim is that, subject to applicable legislation and
+wider MOD policy constraints, we can meet the needs of anyone who applies for a licence to
+re-use information that falls within my delegated authority for any purpose. We will publish
+our policy on reuse on our website and apply it fairly and equitably
+We set prices, and methods for determining prices (such as royalty schemes), in line with
+applicable HMSO guidance and industry best practice. We publish them on our website and
+apply them fairly and equitably. Any exceptions are described in full on the website and are
+available to anyone who qualifies for them
+I am committed to reducing as far as possible the administrative burden on people who re-
+use public sector information. I will make sure that where appropriate we use processes for
+trading information that are in line with those of the rest of the public sector.
+I will investigate any complaints I receive that my organisation has broken this commitment
+and I will make the results of these investigations available to the Office of Public Sector
+Information. If the OPSI decide to review a complaint, I will, subject to the applicable security
+requirements being met, allow the OPSI review team to see the relevant staff and records.
+Freda Sedgwick
+
+OCR Title Updated 1 record.
+Total Updated OCR Title Count : 6
+Total Error Count : 0
+IMAGE DIRECTORY FILES DELETED. [ /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/IFTScommitment_image_1.png ]
+========== OCR TITLE EXTRACT THREAD END ==========
+========== OCR TITLE EXTRACT THREAD START ==========
+TARGET id : uk.gov.www:https/government/uploads/system/uploads/attachment_data/file/332428/maerl_recovery_report.pdf
+TARGET FILE NAME : maerl_recovery_report.pdf
+TOTAL PAGES : 5
+IMAGE FILE PATH : /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/maerl_recovery_report_image_1.png
+IMAGE FILE PATH : /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/maerl_recovery_report_image_2.png
+IMAGE FILE PATH : /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/maerl_recovery_report_image_3.png
+IMAGE FILE PATH : /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/maerl_recovery_report_image_4.png
+IMAGE FILE PATH : /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/maerl_recovery_report_image_5.png
+ocrContTitle : Dr Jason Hall-Spencer
+Marine Institute
+University of Plymouth
+PL4 8AA
+01752 584629
+Port of Falmouth Development Initiative: maerl 'recovery' report
+Aims
+Provide independent expert opinion on likely 'recovery rates of maerl following proposed navigation
+channel dredging in Falmouth Harbour.
+Meet Nicola Solly at Royal Haskoning Exeter Office on 1t September 2009 to run through details
+of the dredging proposals and maerl studies already undertaken
+Review analyses that Royal Haskoning has undertaken of the maerl survey data
+Review relevant sections of the Environmental Statement and supporting information
+Supplement any knowledge from the existing scientific and grey literature
+Provide expert opinion on likely 'recovery' rates (in terms of numbers of years) with a detailed
+commentary explaining the reasoning behind this
+Introduction
+In this short report I provide independent expert advice on the rate at which maerl bed communities
+within the proposed dredge area might re-colonise after deepening of the navigation channel if
+mitigation measures are put in place. To do this I have examined the most relevant parts of the Port of
+Falmouth Development Initiative Environmental Statement (31 July 2009), namely Chapters 1
+(Introduction), 2 (Project Description), 5 (Hydrodynamic and sediment regime), 8 (Coastal ecology), 24
+(Implications for the designated status of the Fal and Helford Estuaries SAC) and Appendix C (Marine
+Ecology) In addition I have examined the raw data and analyses carried out in house by Royal
+Haskoning to assess post-dredging maerl recovery rates within the Fal Estuary (Royal Haskoning, 2004
+2008). I report on my opinions of Chapters 8 and 24 of the Environmental Statement and the maerl
+monitoring assessments provided by Royal Haskoning (2004, 2008)
+1
+Chapter 8 Marine and Coastal Ecolo
+Chapter 8 argues that the proposed capital dredging would have 'major adverse impact' unless
+the proposed mitigation plan was implemented, but that if maerl is replaced on the seabed at the
+eastern end of the navigation channel then the proposal would have 'minor adverse residual impact
+This Chapter first describes how the proposed capital dredging would cause loss of live maerl
+and that without mitigation this would result in the loss of approximately four hectares of maerl gravel
+habitat. Given the scale of this loss and the sensitivity of the SAC, the Environmental Statement asserts
+that this would represent a ‘major adverse impact. This is because the proposed dredging site lies
+within an SAC where maerl habitats that are 1000s of years old (Hall-Spencer 1998, Bosence & Wilson,
+2003) are one of the primary features of conservation importance as they are rare around the coasts of
+England. Maerl is a UK listed priority habitat and its Biodiversity Action Plan states the objectives of
+maintaining its range, variety and quality. Tyler & Hiscock (2005) are cited as noting that maerl is 'highly
+intolerant' of 'substratum loss", ‘smothering', 'changes in suspended sediment, and 'abrasion and
+physical disturbance'. Hall-Spencer et a (2006) and Nelson (2009) provide updates on the
+environmental tolerances of maerl which strengthen the body of scientific evidence that these habitats
+are intolerant of substratum loss, smothering, changes in suspended sediment, abrasion and physical
+disturbance. The Environmental Statement argues that increased sedimentation due to the proposed
+dredging is expected to have a 'minor adverse impact' on the surrounding maerl and its associated
+benthic infauna. I agree with the arguments that the live maerl beds located off St Mawes would
+probably not be affected by the proposed dredging. However, given the weight of published evidence
+showing the vulnerability of live maerl to smothering with silt, I would anticipate that any live maerl
+adjacent to the proposed dredging channel would be killed (i.e. major adverse impact') I consider that
+the planned use of a backhoe dredger for channel deepening is a good choice as this will suspend less
+sediment than suction dredging. estimate that this will restrict the smothering of live maerl to a 20 m
+zone around the dredge channel, based on a combination of my knowledge of the effects of siltation on
+live maerl caused by scallop dredging (Hall-Spencer & Moore, 2000) and an examination of Chapter 5 of
+the Environmental Statement (Hydrodynamic and sediment regime)
+To mitigate the impact of dredging it is proposed that coarse maerl gravel (i.e. maerl with a low
+silt content) from the central/western part of the proposed dredging area be redistributed over an
+estimated 6 hectare area of seabed at the eastern end of the proposed dredge channel in a layer 1 m
+thick. Annex C of the Environmental Statement (Axelsson et al. 2008) shows that live maerl was
+recorded in 8/10 of the core samples taken from the proposed dredging channel, with abundant live
+maerl in 2/10 samples and frequent live maerl in 3/10 of the samples. Chapter 8 of the Environmental
+Statement acknowledges that live maerl in the dredged area will be killed, but the idea behind the
+proposed mitigation plan is to use a backhoe dredge to put dead maerl back to allow recolonisation of
+maerl communities and to help reduce dredging effects from 'major adverse impact' to a 'minor adverse
+residual impact. Such classifications are subjective however, Natural England may argue that the loss of
+a mature maerl community with scattered live maerl remains a 'major adverse impact' despite the
+proposed mitigation efforts. Axelsson et al. (2008) found that the sedimentary habitat within the
+proposed dredging footprint had the high species richness that is typical of maerl-associated
+communities. They also found that this area has the only known UK records of the tanaidacean
+Leptognathis paramanca, a species which is being considered for statutory conservation protection. In
+my opinion L. paramanca may be widespread in maerl deposits within the Fal and Helford SAC but may
+have gone unnoticed as many previous surveys of this habitat did not identify specimens to species level
+(e.g. Royal Haskoning 2004, 2008). Use of a backhoe dredge to place maerl onto the seabed is a good
+choice as this will reduce the impact of plumes of suspended sediment which would otherwise be
+expected if the maerl was simply dumped overboard. While the dredged maerl is stored on barges I
+would expect the sediment to become anoxic as the inhabitants of the maerl die and rot, raising
+concerns about the rate at which this anoxic sediment might take to recolonise
+I agree with the advice within the Environmental Statement that, if navigation channel dredging
+goes ahead, then the proposed mitigation exercise is a valid attempt to avoid adverse impacts on the
+integrity of the Fal and Helford SAC. I also agree with the recommendation that the coarse maerl gravel
+be redistributed in a layer 1 m thick. This is because long-lived elements of the fauna that typify
+established maerl communities are known to burrow deeply (70 cm) into maerl deposits (Hall-Spencer
+& Atkinson, 1999). I would caution that it is difficult to predict whether the mitigation will work,
+especially since translocation of maerl habitat has not been attempted before. We can not assume that
+the granulometry of the coarse maerl gravel laid onto the proposed overdredged area at the eastern
+end of the channel will not be altered by the subsequent build-up of sand and/or silt. Given that sand
+and silty maerl gravel sediments are present in the proposed mitigation area at present (Chapter 5), my
+opinion is that coarse maerl gravel could become inundated by other sediment types over the coming
+decades and that as a consequence the coarse maerl gravel habitat type that would be removed from
+the central/western part of the proposed dredging channel would be lost in perpetuity
+Chapter 8 posits that a 'relatively small proportion of dead maerl habitat within the SAC is likely
+to be affected. It would be useful to know how this estimate was reached as 1) live maerl wil be
+removed and killed, and 2) an estimate of % loss of maerl habitat within the SAC has not been
+attempted. A GIS map of the known live and dead areas of maerl habitat within the SAC would help
+enlighten discussions and decisions about the proposal as it and may strengthen (or weaken) the
+argument that the proposed dredging programme will not affect the integrity of the SAC.
+Maerl 'recover
+No data exist on the recovery of maerl beds that have been dredged from one place and put in
+another, although there have been assessments of the ecological consequences of the disposal of other
+types of dredged material around the coastline of England and Wales that show that the communities
+within such sites generally have an impoverished fauna, although the degree of impact is highly site-
+specific (Bolam et al. 2006). On the basis of published work on the effects of dredging on maerl bed
+ecology (de Grave & Whitaker 2000; Hall-Spencer & Moore 2000; Hauton et al. 2003) I consider it likely
+that moving a maerl bed would have strong effects on the structure and composition of the community
+that eventually becomes established within the translocated sediment. The benthic community is
+unlikely to return to the same community composition as that found in the central/western end of the
+proposed dredging channel as there will be long-term effects of the disturbance itself (e.g. death of live
+maerl upon which maerl generation ultimately depends) as well as differences in parameters such as
+wave exposure, currents and sediment granulometry that will determine the eventual composition of
+the benthic community. However, it may be that a different and yet ecologically healthy maerl
+community could develop over time thanks to mitigation, where useful ecosystem goods and services
+are provided by the translocated maerl. agree with McCauley (1977) that 'recovery is the wrong term
+to use when studying post-dredging re-colonisation processes as it not only implies a return to prior
+abundance levels, but also a return to ecological pathways which may have taken years to develop. In
+an analysis of re-colonization processes following cessation of maerl dredging in Ireland, De Grave &
+Whitaker (2000) found clear differences in the benthos between dredged and fallow sites but they were
+unable to determine whether there had been a return to pre-dredging conditions as there were no pre-
+dredge data. However, they noted that several studies on other sediment types had shown changes in
+the relative contribution of the major taxonomic groups following dredging abatement
+4
+Chapter 8 assesses the likely rates of re-colonization of maerl in the mitigation zone, based on
+data analyses by Royal Haskoning (2004, 2008) and Axellson et al. (2008). Royal Haskoning (2004)
+compares hand-held core samples taken in July 2003 with those taken in July 2004 at maerl sites within
+the Fal 1) that had never been dredged, 2) where low-levels of maerl extraction had occurred in 2003-4,
+3) where levels of maerl extraction increased to high levels in 2003-4 and 4) where maerl extraction had
+ceased in 2003, following a previous 15 year period of dredging. Their analyses show the high degree of
+inter-annual variability that can be obtained in core sample studies of maerl beds, even if the sampling
+season is standardised. Within the undredged areas, for instance, the abundance of fauna at some
+stations dropped by two thirds in July 2004 (cf. July 2003) whereas at another reference station the
+abundance of fauna had increased over the same time period. Royal Haskoning (2004) also show the
+marked effect that high levels of maerl extraction can have, transforming an area of maerl that was the
+richest area recorded in 2003 (76 taxa) to the most impoverished benthic community in 2004 (15 taxa)
+These data are consistent with what would be expected in heavily dredged areas. At all of the other
+sites studied there was such a high variability in numbers of taxa and their abundances that no
+significant trends from 2003-2004. At the site where maerl extraction had ceased in 2003, two of the
+three stations sampled showed increases in the average numbers of taxa and abundances of organisms
+per core but these increases were not statistically significant. Royal Haskoning (2004) recommended
+that longer-term monitoring of the maerl was needed to assess 'recovery' of the communities present
+Given the variability in the abundances of the species that occur in maerl core samples it may be
+sensible to consider the functional capacity (or health) of these ecosystems rather than simply the range
+and proportions of species present (see Cooper et al., 2008). One way in which this could be measures
+is to use air-lift sampling to assess the population structure of long-lived infauna such as the brood stock
+of adult bivalves
+I have not carried out ecological studies of maerl deposits within the Fal and Helford Estuary SAC
+so have to draw on my experience of studies of maerl habitats in Brittany and Scotland to inform my
+opinion of the Environmental Assessment. During the course of these studies I have learnt that replicate
+15 cm long, 11 cm diameter hand-held core samples provide a good means of monitoring the small and
+abundant sessile fauna that occur in surface sediments (e.g. Davies et al. 2001; Hall-Spencer & Bamber,
+2007). However, this sampling methodology is not suited to an assessment of large, long-lived
+inhabitants of maerl beds which are more sparsely distributed and often occur below the depth to which
+hand-held diver cores can penetrate. Axelsson et al. (2008) noted that biomass records were extremely
+variable within the proposed dredge area, and depended on whether large organisms such as Paphia
+
+Dr Jason Hall-Spencer
+Marine Institute
+University of Plymouth
+PL4 8AA
+01752 584629
+Port of Falmouth Development Initiative: maerl 'recovery' report
+Aims
+Provide independent expert opinion on likely 'recovery rates of maerl following proposed navigation
+channel dredging in Falmouth Harbour.
+Meet Nicola Solly at Royal Haskoning Exeter Office on 1t September 2009 to run through details
+of the dredging proposals and maerl studies already undertaken
+Review analyses that Royal Haskoning has undertaken of the maerl survey data
+Review relevant sections of the Environmental Statement and supporting information
+Supplement any knowledge from the existing scientific and grey literature
+Provide expert opinion on likely 'recovery' rates (in terms of numbers of years) with a detailed
+commentary explaining the reasoning behind this
+Introduction
+In this short report I provide independent expert advice on the rate at which maerl bed communities
+within the proposed dredge area might re-colonise after deepening of the navigation channel if
+mitigation measures are put in place. To do this I have examined the most relevant parts of the Port of
+Falmouth Development Initiative Environmental Statement (31 July 2009), namely Chapters 1
+(Introduction), 2 (Project Description), 5 (Hydrodynamic and sediment regime), 8 (Coastal ecology), 24
+(Implications for the designated status of the Fal and Helford Estuaries SAC) and Appendix C (Marine
+Ecology) In addition I have examined the raw data and analyses carried out in house by Royal
+Haskoning to assess post-dredging maerl recovery rates within the Fal Estuary (Royal Haskoning, 2004
+2008). I report on my opinions of Chapters 8 and 24 of the Environmental Statement and the maerl
+monitoring assessments provided by Royal Haskoning (2004, 2008)
+1
+Chapter 8 Marine and Coastal Ecolo
+Chapter 8 argues that the proposed capital dredging would have 'major adverse impact' unless
+the proposed mitigation plan was implemented, but that if maerl is replaced on the seabed at the
+eastern end of the navigation channel then the proposal would have 'minor adverse residual impact
+This Chapter first describes how the proposed capital dredging would cause loss of live maerl
+and that without mitigation this would result in the loss of approximately four hectares of maerl gravel
+habitat. Given the scale of this loss and the sensitivity of the SAC, the Environmental Statement asserts
+that this would represent a ‘major adverse impact. This is because the proposed dredging site lies
+within an SAC where maerl habitats that are 1000s of years old (Hall-Spencer 1998, Bosence & Wilson,
+2003) are one of the primary features of conservation importance as they are rare around the coasts of
+England. Maerl is a UK listed priority habitat and its Biodiversity Action Plan states the objectives of
+maintaining its range, variety and quality. Tyler & Hiscock (2005) are cited as noting that maerl is 'highly
+intolerant' of 'substratum loss", ‘smothering', 'changes in suspended sediment, and 'abrasion and
+physical disturbance'. Hall-Spencer et a (2006) and Nelson (2009) provide updates on the
+environmental tolerances of maerl which strengthen the body of scientific evidence that these habitats
+are intolerant of substratum loss, smothering, changes in suspended sediment, abrasion and physical
+disturbance. The Environmental Statement argues that increased sedimentation due to the proposed
+dredging is expected to have a 'minor adverse impact' on the surrounding maerl and its associated
+benthic infauna. I agree with the arguments that the live maerl beds located off St Mawes would
+probably not be affected by the proposed dredging. However, given the weight of published evidence
+showing the vulnerability of live maerl to smothering with silt, I would anticipate that any live maerl
+adjacent to the proposed dredging channel would be killed (i.e. major adverse impact') I consider that
+the planned use of a backhoe dredger for channel deepening is a good choice as this will suspend less
+sediment than suction dredging. estimate that this will restrict the smothering of live maerl to a 20 m
+zone around the dredge channel, based on a combination of my knowledge of the effects of siltation on
+live maerl caused by scallop dredging (Hall-Spencer & Moore, 2000) and an examination of Chapter 5 of
+the Environmental Statement (Hydrodynamic and sediment regime)
+To mitigate the impact of dredging it is proposed that coarse maerl gravel (i.e. maerl with a low
+silt content) from the central/western part of the proposed dredging area be redistributed over an
+estimated 6 hectare area of seabed at the eastern end of the proposed dredge channel in a layer 1 m
+thick. Annex C of the Environmental Statement (Axelsson et al. 2008) shows that live maerl was
+recorded in 8/10 of the core samples taken from the proposed dredging channel, with abundant live
+maerl in 2/10 samples and frequent live maerl in 3/10 of the samples. Chapter 8 of the Environmental
+Statement acknowledges that live maerl in the dredged area will be killed, but the idea behind the
+proposed mitigation plan is to use a backhoe dredge to put dead maerl back to allow recolonisation of
+maerl communities and to help reduce dredging effects from 'major adverse impact' to a 'minor adverse
+residual impact. Such classifications are subjective however, Natural England may argue that the loss of
+a mature maerl community with scattered live maerl remains a 'major adverse impact' despite the
+proposed mitigation efforts. Axelsson et al. (2008) found that the sedimentary habitat within the
+proposed dredging footprint had the high species richness that is typical of maerl-associated
+communities. They also found that this area has the only known UK records of the tanaidacean
+Leptognathis paramanca, a species which is being considered for statutory conservation protection. In
+my opinion L. paramanca may be widespread in maerl deposits within the Fal and Helford SAC but may
+have gone unnoticed as many previous surveys of this habitat did not identify specimens to species level
+(e.g. Royal Haskoning 2004, 2008). Use of a backhoe dredge to place maerl onto the seabed is a good
+choice as this will reduce the impact of plumes of suspended sediment which would otherwise be
+expected if the maerl was simply dumped overboard. While the dredged maerl is stored on barges I
+would expect the sediment to become anoxic as the inhabitants of the maerl die and rot, raising
+concerns about the rate at which this anoxic sediment might take to recolonise
+I agree with the advice within the Environmental Statement that, if navigation channel dredging
+goes ahead, then the proposed mitigation exercise is a valid attempt to avoid adverse impacts on the
+integrity of the Fal and Helford SAC. I also agree with the recommendation that the coarse maerl gravel
+be redistributed in a layer 1 m thick. This is because long-lived elements of the fauna that typify
+established maerl communities are known to burrow deeply (70 cm) into maerl deposits (Hall-Spencer
+& Atkinson, 1999). I would caution that it is difficult to predict whether the mitigation will work,
+especially since translocation of maerl habitat has not been attempted before. We can not assume that
+the granulometry of the coarse maerl gravel laid onto the proposed overdredged area at the eastern
+end of the channel will not be altered by the subsequent build-up of sand and/or silt. Given that sand
+and silty maerl gravel sediments are present in the proposed mitigation area at present (Chapter 5), my
+opinion is that coarse maerl gravel could become inundated by other sediment types over the coming
+decades and that as a consequence the coarse maerl gravel habitat type that would be removed from
+the central/western part of the proposed dredging channel would be lost in perpetuity
+Chapter 8 posits that a 'relatively small proportion of dead maerl habitat within the SAC is likely
+to be affected. It would be useful to know how this estimate was reached as 1) live maerl wil be
+removed and killed, and 2) an estimate of % loss of maerl habitat within the SAC has not been
+attempted. A GIS map of the known live and dead areas of maerl habitat within the SAC would help
+enlighten discussions and decisions about the proposal as it and may strengthen (or weaken) the
+argument that the proposed dredging programme will not affect the integrity of the SAC.
+Maerl 'recover
+No data exist on the recovery of maerl beds that have been dredged from one place and put in
+another, although there have been assessments of the ecological consequences of the disposal of other
+types of dredged material around the coastline of England and Wales that show that the communities
+within such sites generally have an impoverished fauna, although the degree of impact is highly site-
+specific (Bolam et al. 2006). On the basis of published work on the effects of dredging on maerl bed
+ecology (de Grave & Whitaker 2000; Hall-Spencer & Moore 2000; Hauton et al. 2003) I consider it likely
+that moving a maerl bed would have strong effects on the structure and composition of the community
+that eventually becomes established within the translocated sediment. The benthic community is
+unlikely to return to the same community composition as that found in the central/western end of the
+proposed dredging channel as there will be long-term effects of the disturbance itself (e.g. death of live
+maerl upon which maerl generation ultimately depends) as well as differences in parameters such as
+wave exposure, currents and sediment granulometry that will determine the eventual composition of
+the benthic community. However, it may be that a different and yet ecologically healthy maerl
+community could develop over time thanks to mitigation, where useful ecosystem goods and services
+are provided by the translocated maerl. agree with McCauley (1977) that 'recovery is the wrong term
+to use when studying post-dredging re-colonisation processes as it not only implies a return to prior
+abundance levels, but also a return to ecological pathways which may have taken years to develop. In
+an analysis of re-colonization processes following cessation of maerl dredging in Ireland, De Grave &
+Whitaker (2000) found clear differences in the benthos between dredged and fallow sites but they were
+unable to determine whether there had been a return to pre-dredging conditions as there were no pre-
+dredge data. However, they noted that several studies on other sediment types had shown changes in
+the relative contribution of the major taxonomic groups following dredging abatement
+4
+Chapter 8 assesses the likely rates of re-colonization of maerl in the mitigation zone, based on
+data analyses by Royal Haskoning (2004, 2008) and Axellson et al. (2008). Royal Haskoning (2004)
+compares hand-held core samples taken in July 2003 with those taken in July 2004 at maerl sites within
+the Fal 1) that had never been dredged, 2) where low-levels of maerl extraction had occurred in 2003-4,
+3) where levels of maerl extraction increased to high levels in 2003-4 and 4) where maerl extraction had
+ceased in 2003, following a previous 15 year period of dredging. Their analyses show the high degree of
+inter-annual variability that can be obtained in core sample studies of maerl beds, even if the sampling
+season is standardised. Within the undredged areas, for instance, the abundance of fauna at some
+stations dropped by two thirds in July 2004 (cf. July 2003) whereas at another reference station the
+abundance of fauna had increased over the same time period. Royal Haskoning (2004) also show the
+marked effect that high levels of maerl extraction can have, transforming an area of maerl that was the
+richest area recorded in 2003 (76 taxa) to the most impoverished benthic community in 2004 (15 taxa)
+These data are consistent with what would be expected in heavily dredged areas. At all of the other
+sites studied there was such a high variability in numbers of taxa and their abundances that no
+significant trends from 2003-2004. At the site where maerl extraction had ceased in 2003, two of the
+three stations sampled showed increases in the average numbers of taxa and abundances of organisms
+per core but these increases were not statistically significant. Royal Haskoning (2004) recommended
+that longer-term monitoring of the maerl was needed to assess 'recovery' of the communities present
+Given the variability in the abundances of the species that occur in maerl core samples it may be
+sensible to consider the functional capacity (or health) of these ecosystems rather than simply the range
+and proportions of species present (see Cooper et al., 2008). One way in which this could be measures
+is to use air-lift sampling to assess the population structure of long-lived infauna such as the brood stock
+of adult bivalves
+I have not carried out ecological studies of maerl deposits within the Fal and Helford Estuary SAC
+so have to draw on my experience of studies of maerl habitats in Brittany and Scotland to inform my
+opinion of the Environmental Assessment. During the course of these studies I have learnt that replicate
+15 cm long, 11 cm diameter hand-held core samples provide a good means of monitoring the small and
+abundant sessile fauna that occur in surface sediments (e.g. Davies et al. 2001; Hall-Spencer & Bamber,
+2007). However, this sampling methodology is not suited to an assessment of large, long-lived
+inhabitants of maerl beds which are more sparsely distributed and often occur below the depth to which
+hand-held diver cores can penetrate. Axelsson et al. (2008) noted that biomass records were extremely
+variable within the proposed dredge area, and depended on whether large organisms such as Paphia
+
+OCR Title Updated 1 record.
+Total Updated OCR Title Count : 7
+Total Error Count : 0
+IMAGE DIRECTORY FILES DELETED. [ /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/maerl_recovery_report_image_2.png ]
+IMAGE DIRECTORY FILES DELETED. [ /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/maerl_recovery_report_image_5.png ]
+IMAGE DIRECTORY FILES DELETED. [ /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/maerl_recovery_report_image_4.png ]
+IMAGE DIRECTORY FILES DELETED. [ /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/maerl_recovery_report_image_1.png ]
+IMAGE DIRECTORY FILES DELETED. [ /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/maerl_recovery_report_image_3.png ]
+========== OCR TITLE EXTRACT THREAD END ==========
+========== OCR TITLE EXTRACT THREAD START ==========
+TARGET id : uk.gov.www:https/government/uploads/system/uploads/attachment_data/file/332429/maerl_surface_area.pdf
+TARGET FILE NAME : maerl_surface_area.pdf
+TOTAL PAGES : 5
+IMAGE FILE PATH : /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/maerl_surface_area_image_1.png
+IMAGE FILE PATH : /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/maerl_surface_area_image_2.png
+IMAGE FILE PATH : /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/maerl_surface_area_image_3.png
+IMAGE FILE PATH : /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/maerl_surface_area_image_4.png
+IMAGE FILE PATH : /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/maerl_surface_area_image_5.png
+ocrContTitle : Maerl surface area coverage in Fal and Helford SAC
+Solly, N.S. (Royal Haskoning) and Knowles, H (Falmouth Harbour Commissioners
+25/11/2009
+1. Brief:
+The purpose of this study was to calcułate the surface area of maerl habitat in the Fal and
+Helford Special Area of Conservation (SAC) using existing data sources on the distribution of
+maerl within the area. This is being undertaken to inform the discussions on the FEPA
+license currently under consideration for the Port of Falmouth Development Initiative
+(PFDI), which includes dredging of maerl within the Fal estuary.
+2. Methodology:
+The assessment was carried out using existing data on the distribution of maerl within the
+SAC. The following surveys/ data sources were used (no new survey work was carried out
+for this assessment);
+. Davies and Sotheran, 1995;
+» Hardiman et al, 1976;
+» Ruiz-Frau et al, 2007 on behalf of Cornish Sea Fisheries Commission; and
+SeaStar Survey 2007.
+This study has concentrated on the distribution of dead rather than live maerl. This is
+because the maerl beds that will be affected by the PDFI comprise predominantly dead
+maerl with a small proportion of live maerl on the surface. The live maerl bank off St Mawes
+is not predicted to be affected by the scheme (see the PFDI Environmental Statement (Royal
+Haskoning, 2009) for further details)
+Using EasyCAD 7 software, a map was produced showing the locations where dead maerl
+has been record as being present or absent. In order to estimate the area of maerl within
+the SAC, it was decided to map the areas where dead maerl is the dominant sediment on
+the seabed. This was defined as being locations where dead maerl has been recorded as
+comprising at least 50% of the sediment recorded at a sampling location or the survey had
+recorded it as being the dominant substrate (further detail presented below).
+2.1Analysing abundance
+2.1.1 DAFOR method
+Two of the investigations (SeaStar Survey, 2007 and Hardiman et al, 1976) visually assessed
+the nature of the sediments on the seabed and classified the abundance of maerl according
+to the well-known DAFOR scale. The percentage cover of maerl on the seabed at each
+sampling station was described according to the following classification:
+D-dominant->75% maerl cover
+A-abundant-51-75% maerl cover
+F-frequent-26-50% maerl cover
+O-occasional 11-25% maerl cover
+R-rare-0-10% maerl cover
+For the purposes of this study, all sampling stations where maerl was recorded as being
+dominant or abundant (i.e. more than 50%) were included.
+2.1.2 Davies and Sotheran
+The Davies and Sotheran investigation mapped the distribution of maerl and other habitats
+in the SAC. The study was undertaken using RoxAnn acoustic system supported by direct
+observation of the sea bed using drop-down video camera and sediment samples collected
+by grab. At each of the video and grab stations, the seabed was classified according to the
+biotope present. Twelve biotopes were recorded in total of which 4 recorded are
+considered to be dominated by maerl. These were biotope codes 4, 5, 6 and 7 referred to in
+Table 1 of the report. Locations where these biotopes were present were therefore
+included in this study as maerl is considered to be the dominant sediment in these locations.
+2.1.3 CFSC study
+The CSFC study involved grab sampling at eight stations and taking video recording along six
+transects. Only the grab sampling data is presented in the report in sufficient detail to be
+able to use in this assessment. Locations where the sediment types for the grab samples
+were described as maerl gravel, were included in the study.
+2.2
+Mapping of areas
+Figure 1 shows the locations where maerl is recorded as being dominant. In order to
+estimate the area of maerl, a series of polygons were drawn around these locations in
+EasyCAD. These were drawn using the following assumptions:
+Where there are two stations recorded as maerl being dominant, it is assumed that
+maerl dominates the sediments between these two stations
+It is assumed that the boundary between maerl being present and absent lies
+equidistant between stations where maerl is being recorded as present and absent
+It should be noted that in practise one sediment type is likely to gradually grade into
+another often with a poorly defined boundary
+o
+Using these polygons, the predicted area of maerl was calculated. This has been compared
+he area of the Fal and Helford SAC to estimate the percentage cover of the maerl
+hapitat.
+In light of how the results of this study will be used, it is important that a pre-cautionary
+approach is adopted and that the area of maerl is not over-estimated. It is was therefore
+decided to apply a scaling factor to the results of the study to account for the fact that there
+is likely to be natural variability in the sediment types across the study area and that despite
+the best efforts to map the distribution accurately, it is likely that maerl is not present
+continuously across the areas where maerl is recorded as being dominant. A scaling factor
+of 30% was therefore used and the calculated areas were multiplied by 0.7 to reduce them
+by this factor.
+It should be noted that although maerl is not likely to be present 100% continuously across
+the identified areas, maerl is also likely to be present outside of these areas, which has not
+been recorded by any of the surveys due to the distances between sampling stations.
+Therefore the results of this study probably represent an underestimate of the
+maerl within the SAC.
+cover of
+3. Results:
+The results of the assessment are presented in Figure 1 and Table 1. The results of the
+assessment have been compared to the biotope map in Davies and Sotheran (1994). They
+appear broadly consistent with Davies and Sotheran (1994) who recorded that "Falmouth
+Bay was predominantly sedimentary with the sediment mainly dead maerl or maeri derivatives".
+Each polygon where maerl is predicted to be dominant was identified with a number (1-4)
+and the area of each is identified in Table 1. The total area of dead maerl within the SAC is
+962 hectares (including a 30% scaling factor). The SAC covers an area of 6397 hectares
+(JNCC, [online]) and therefore, the percentage of the Fal and Helford SAC covered by dead
+maerl is approximately 15%
+Table 1: Area of maerl within the SAC boundary
+Polygon Identification Number Area of maerl within the SAC Area of maerl within the
+boundarv (hectares) without
+boundary (hectares) with a
+scaling factor
+126.41
+192.47
+1033.86
+22.25
+1374.99
+30% scaling factor
+88.49
+134.73
+723.7
+15.57.
+962.49
+4
+Total
+Figure 1: Distribution of maerl within the Fal and Helford SAC
+112 maen rra3bsent 1-1054
+惨
+mael abon
+Halted
+
+Maerl surface area coverage in Fal and Helford SAC
+Solly, N.S. (Royal Haskoning) and Knowles, H (Falmouth Harbour Commissioners
+25/11/2009
+1. Brief:
+The purpose of this study was to calcułate the surface area of maerl habitat in the Fal and
+Helford Special Area of Conservation (SAC) using existing data sources on the distribution of
+maerl within the area. This is being undertaken to inform the discussions on the FEPA
+license currently under consideration for the Port of Falmouth Development Initiative
+(PFDI), which includes dredging of maerl within the Fal estuary.
+2. Methodology:
+The assessment was carried out using existing data on the distribution of maerl within the
+SAC. The following surveys/ data sources were used (no new survey work was carried out
+for this assessment);
+. Davies and Sotheran, 1995;
+» Hardiman et al, 1976;
+» Ruiz-Frau et al, 2007 on behalf of Cornish Sea Fisheries Commission; and
+SeaStar Survey 2007.
+This study has concentrated on the distribution of dead rather than live maerl. This is
+because the maerl beds that will be affected by the PDFI comprise predominantly dead
+maerl with a small proportion of live maerl on the surface. The live maerl bank off St Mawes
+is not predicted to be affected by the scheme (see the PFDI Environmental Statement (Royal
+Haskoning, 2009) for further details)
+Using EasyCAD 7 software, a map was produced showing the locations where dead maerl
+has been record as being present or absent. In order to estimate the area of maerl within
+the SAC, it was decided to map the areas where dead maerl is the dominant sediment on
+the seabed. This was defined as being locations where dead maerl has been recorded as
+comprising at least 50% of the sediment recorded at a sampling location or the survey had
+recorded it as being the dominant substrate (further detail presented below).
+2.1Analysing abundance
+2.1.1 DAFOR method
+Two of the investigations (SeaStar Survey, 2007 and Hardiman et al, 1976) visually assessed
+the nature of the sediments on the seabed and classified the abundance of maerl according
+to the well-known DAFOR scale. The percentage cover of maerl on the seabed at each
+sampling station was described according to the following classification:
+D-dominant->75% maerl cover
+A-abundant-51-75% maerl cover
+F-frequent-26-50% maerl cover
+O-occasional 11-25% maerl cover
+R-rare-0-10% maerl cover
+For the purposes of this study, all sampling stations where maerl was recorded as being
+dominant or abundant (i.e. more than 50%) were included.
+2.1.2 Davies and Sotheran
+The Davies and Sotheran investigation mapped the distribution of maerl and other habitats
+in the SAC. The study was undertaken using RoxAnn acoustic system supported by direct
+observation of the sea bed using drop-down video camera and sediment samples collected
+by grab. At each of the video and grab stations, the seabed was classified according to the
+biotope present. Twelve biotopes were recorded in total of which 4 recorded are
+considered to be dominated by maerl. These were biotope codes 4, 5, 6 and 7 referred to in
+Table 1 of the report. Locations where these biotopes were present were therefore
+included in this study as maerl is considered to be the dominant sediment in these locations.
+2.1.3 CFSC study
+The CSFC study involved grab sampling at eight stations and taking video recording along six
+transects. Only the grab sampling data is presented in the report in sufficient detail to be
+able to use in this assessment. Locations where the sediment types for the grab samples
+were described as maerl gravel, were included in the study.
+2.2
+Mapping of areas
+Figure 1 shows the locations where maerl is recorded as being dominant. In order to
+estimate the area of maerl, a series of polygons were drawn around these locations in
+EasyCAD. These were drawn using the following assumptions:
+Where there are two stations recorded as maerl being dominant, it is assumed that
+maerl dominates the sediments between these two stations
+It is assumed that the boundary between maerl being present and absent lies
+equidistant between stations where maerl is being recorded as present and absent
+It should be noted that in practise one sediment type is likely to gradually grade into
+another often with a poorly defined boundary
+o
+Using these polygons, the predicted area of maerl was calculated. This has been compared
+he area of the Fal and Helford SAC to estimate the percentage cover of the maerl
+hapitat.
+In light of how the results of this study will be used, it is important that a pre-cautionary
+approach is adopted and that the area of maerl is not over-estimated. It is was therefore
+decided to apply a scaling factor to the results of the study to account for the fact that there
+is likely to be natural variability in the sediment types across the study area and that despite
+the best efforts to map the distribution accurately, it is likely that maerl is not present
+continuously across the areas where maerl is recorded as being dominant. A scaling factor
+of 30% was therefore used and the calculated areas were multiplied by 0.7 to reduce them
+by this factor.
+It should be noted that although maerl is not likely to be present 100% continuously across
+the identified areas, maerl is also likely to be present outside of these areas, which has not
+been recorded by any of the surveys due to the distances between sampling stations.
+Therefore the results of this study probably represent an underestimate of the
+maerl within the SAC.
+cover of
+3. Results:
+The results of the assessment are presented in Figure 1 and Table 1. The results of the
+assessment have been compared to the biotope map in Davies and Sotheran (1994). They
+appear broadly consistent with Davies and Sotheran (1994) who recorded that "Falmouth
+Bay was predominantly sedimentary with the sediment mainly dead maerl or maeri derivatives".
+Each polygon where maerl is predicted to be dominant was identified with a number (1-4)
+and the area of each is identified in Table 1. The total area of dead maerl within the SAC is
+962 hectares (including a 30% scaling factor). The SAC covers an area of 6397 hectares
+(JNCC, [online]) and therefore, the percentage of the Fal and Helford SAC covered by dead
+maerl is approximately 15%
+Table 1: Area of maerl within the SAC boundary
+Polygon Identification Number Area of maerl within the SAC Area of maerl within the
+boundarv (hectares) without
+boundary (hectares) with a
+scaling factor
+126.41
+192.47
+1033.86
+22.25
+1374.99
+30% scaling factor
+88.49
+134.73
+723.7
+15.57.
+962.49
+4
+Total
+Figure 1: Distribution of maerl within the Fal and Helford SAC
+112 maen rra3bsent 1-1054
+惨
+mael abon
+Halted
+
+OCR Title Updated 1 record.
+Total Updated OCR Title Count : 8
+Total Error Count : 0
+IMAGE DIRECTORY FILES DELETED. [ /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/maerl_surface_area_image_5.png ]
+IMAGE DIRECTORY FILES DELETED. [ /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/maerl_surface_area_image_1.png ]
+IMAGE DIRECTORY FILES DELETED. [ /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/maerl_surface_area_image_4.png ]
+IMAGE DIRECTORY FILES DELETED. [ /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/maerl_surface_area_image_2.png ]
+IMAGE DIRECTORY FILES DELETED. [ /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/maerl_surface_area_image_3.png ]
+========== OCR TITLE EXTRACT THREAD END ==========
+========== OCR TITLE EXTRACT THREAD START ==========
+TARGET id : uk.gov.www:https/government/uploads/system/uploads/attachment_data/file/332431/Falmouth_Harbour_Commissioners_appropriate_assessment.pdf
+TARGET FILE NAME : Falmouth_Harbour_Commissioners_appropriate_assessment.pdf
+TOTAL PAGES : 5
+IMAGE FILE PATH : /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/Falmouth_Harbour_Commissioners_appropriate_assessment_image_1.png
+IMAGE FILE PATH : /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/Falmouth_Harbour_Commissioners_appropriate_assessment_image_2.png
+IMAGE FILE PATH : /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/Falmouth_Harbour_Commissioners_appropriate_assessment_image_3.png
+IMAGE FILE PATH : /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/Falmouth_Harbour_Commissioners_appropriate_assessment_image_4.png
+IMAGE FILE PATH : /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/Falmouth_Harbour_Commissioners_appropriate_assessment_image_5.png
+ocrContTitle : Falmouth Harbour
+Commissioners
+APPROPRIATE ASSESSMENT DECISION
+Project Name
+Falmouth Port Development Initiative
+Location of Plan or Project/Application
+Approaches to Falmouth Docks (see plan)
+International Nature Conservation Site
+Fal and Helford Special Area of Conservation
+Nature/Description of Plan or Project/Application
+(Including brief description of manner in which plan or project is proposed to be carried out)
+Dredging of deeper approach to Falmouth Docks. Dredging to be undertaken using Backhoe dredging
+equipment. Details of operation are given in the Environmental Impact Assessment.
+Date Appropriate Assessment Recorded
+16th July 2010
+This is a record of the appropriate assessment, required by Regulation 48 of the Habitats Regulations
+1994, undertaken by Falmouth Harbour Commissioners in respect of the above plan/project, in
+accordance with the Habitats Directive (Council Directive 92/43/EEC). Having considered that the plan
+or project would be likely to have a significant effect on the Fal and Helford Special Area of
+Conservationand that the plan or project was not directly connected with or necessary to the
+management of the site, an appropriate assessment has been undertaken of the implications of the
+proposal in view of the site's conservation objectives.
+English Nature was consulted under Regulation 48(3) on (date) and their representations, to which this
+authority has had regard, are attached at Annex 1. The conclusions of this appropriate assessment are
+not in accordance with the advice and recommendations of English Nature
+The site's conservation of objectives have been taken into account, including consideration of the
+citation for the site and information supplied by English Nature (see Annex 1). The likely effects of the
+proposal on the international nature conservation interests for which the site was designated may be
+summarised as:
+The Board concluded that the PFDI will not have an adverse effect on the
+integrity of the Fal and Helford Estuaries SAC, either alone, or in-combination
+with other plans and projects. The reason for this conclusion is that less than 2%
+of dead maerl within the SACl be affected by the proposals and only in the
+medium term. This scale of impact is of not sufficient magnitude to affect the
+overall coherence of the SAC's ecological structure and function, particularly as
+the affected habitat will begin to recover and make a contribution to the site
+immediately."
+The assessment has concluded that
+the plan or project as proposed would not adversely affect the integrity of the site
+Date,.01
+Annexes to also include relevant correspondence, minutes or meetings with English Nature, the applicant etc.
+aKec
+Area
+Area 2
+Area 3
+Aroa 4
+Area 5
+Area S
+Aree ?
+27
+Bani
+nner Harbour
+Area 7
+Area 4
+Source: ARCS charl under
+cence number 11535A
+Ate a
+TItie
+Proposed Drelge Areas
+Ar
+Project:
+Falmouth Caplta Dredging
+Client
+Falmouth Harbout
+Commissioners and A&P Ltd
+Scale
+INSERTS
+Date:
+Figure: 41
+arupt
+OUTH HOTEL
+OYAL HASKOMIN
+Annex l
+Date 23rd June 2010
+Our ref: Fal & Helford SAC/Falmouth Docks
+Your ref: 9V1059
+ENGLAND
+Natural England
+Pydar House
+Pydar Street
+Truro
+TR1 1XU
+Nicola Solly
+Haskonning UK Ltd
+Stratus House
+Emperor Way
+Exeter
+EX1 3QS
+Dear Nicola
+Re Information for Appropriate Assessment on Port of Falmouth Development Initiative
+Thank you for your draft report dated 20h May 2010 setting out the information required by
+Falmouth Harbour Commissioners and Falmouth Docks and Engineering Company to
+produce an appropriate assessment
+In my letter to the Marine & Fisheries Agency dated 15th September 2009, I set out details of
+three areas of concern regarding the likely impact of the proposed dredge and replacement
+of maerl, namely:
+. Destruction of the maerl matrix
+.
+.
+.
+Burying of live maerl
+Predicted rates of sedimentation
+Over optimistic rates of recovery
+In the 20h May document Royal Haskonning suggests in the conclusion that "... it is open to
+FHC and FDEC to conclude that the PFDI will not have an adverse effect on the integrity of
+the Fal & Helford SAC " . This is based on the estimate that less than 2% of dead maerl
+within the SAC will be affected by the proposals and only in the medium term." As Relevant
+Authorities, FHC and FDEC are at liberty to draw their own conclusions in their appropriate
+assessment following consultation with Natural England. However we would advise that we
+believe that the argument of no adverse effect on the integrity of the site based on the
+percentage impacted is false. Previous case law supports this, for example in the decision
+regarding Barksore Marshes in Kent, the planning inspector concluded
+" I am aware of no policy guidance to suggest that even small losses (of, say 5% or
+1%) of a valued habitat within an SPA should be regarded as acceptable."
+As the maerl deposits have a limited European distribution, and the Fal and Helford SAC
+represents the only significant occurrence of such habitats in England, Natural England
+believe that the potential losses due to the dredge and replacement of maerl as part of the
+PFDI cannot be regarded as insignificant
+It is further argued by Royal Haskonning that integrity of the SAC will be maintained as the
+extent of maerl within the SAC will be preserved by the replacement of dredged maerl with
+maerl re-deposited at the eastern section of the dredge area. Indeed, it is further argued that
+the area of pure maerl will be increased as a result of the dredge and replacement. Royal
+Haskonning argue that "...neither habitat (of maerl) is more valuable than the other.
+In the Fal and Helford Management scheme, agreed to and signed by FHC and FDEC,
+Conservation Objective 3 (part of the regulation 33 advice package) is "To maintain thee
+SUBTIDAL SANDBANKS in 'favourable condition', taking account of natural change, with
+particular reference to
+. Eelgrass bed communities
+. Maerl bed communities
+. Gravel and sand communities
+. Mixed sediment communities
+The Fal and Helford Management scheme clearly states in the section Subtidal sandbanks
+that in order to meet the above objectives, relevant and competent authorities are advised to
+manage activities within their remit such that they do not result in
+removal and/or smothering
+physical damage resulting from siltation, abrasion and/or selective extraction
+.
+increased synthetic and/or non-synthetic toxic contamination
+nutrient and/or organic enrichment
+*
+. increases in turbidity
+The assessment criteria for the favourable condition of the Maerl bed communities (Table 5
+of the Fal and Helford Management scheme) is set out in the attached Table
+While we would agree that the proposed plan to replace the maerl is likely to maintain the
+extent criteria we would argue that the impact of the dredge and replace will adversely
+impact both the distribution of maerl bed communities and the species composition of maerl
+bed communities attributes, contrary to the conservation objectives for the site, as set out
+The Fal and Helford Management scheme and previously signed up to by FHC and FDEC
+If you have any queries relating to the content of this letter, please contact me at the above
+address
+Regards
+Kevan Cook
+Lead Advisor, Marine
+0300 060 1316
+Direct tel
+kevan.cook@naturalengland orq.uk
+CC (by Email)
+Elaine Young (Marine Management Organisation)
+Mark Sampson (Falmouth Harbour Commissionaires)
+Mike Reynolds (Falmouth Docks & Engineering Company)
+
+Falmouth Harbour
+Commissioners
+APPROPRIATE ASSESSMENT DECISION
+Project Name
+Falmouth Port Development Initiative
+Location of Plan or Project/Application
+Approaches to Falmouth Docks (see plan)
+International Nature Conservation Site
+Fal and Helford Special Area of Conservation
+Nature/Description of Plan or Project/Application
+(Including brief description of manner in which plan or project is proposed to be carried out)
+Dredging of deeper approach to Falmouth Docks. Dredging to be undertaken using Backhoe dredging
+equipment. Details of operation are given in the Environmental Impact Assessment.
+Date Appropriate Assessment Recorded
+16th July 2010
+This is a record of the appropriate assessment, required by Regulation 48 of the Habitats Regulations
+1994, undertaken by Falmouth Harbour Commissioners in respect of the above plan/project, in
+accordance with the Habitats Directive (Council Directive 92/43/EEC). Having considered that the plan
+or project would be likely to have a significant effect on the Fal and Helford Special Area of
+Conservationand that the plan or project was not directly connected with or necessary to the
+management of the site, an appropriate assessment has been undertaken of the implications of the
+proposal in view of the site's conservation objectives.
+English Nature was consulted under Regulation 48(3) on (date) and their representations, to which this
+authority has had regard, are attached at Annex 1. The conclusions of this appropriate assessment are
+not in accordance with the advice and recommendations of English Nature
+The site's conservation of objectives have been taken into account, including consideration of the
+citation for the site and information supplied by English Nature (see Annex 1). The likely effects of the
+proposal on the international nature conservation interests for which the site was designated may be
+summarised as:
+The Board concluded that the PFDI will not have an adverse effect on the
+integrity of the Fal and Helford Estuaries SAC, either alone, or in-combination
+with other plans and projects. The reason for this conclusion is that less than 2%
+of dead maerl within the SACl be affected by the proposals and only in the
+medium term. This scale of impact is of not sufficient magnitude to affect the
+overall coherence of the SAC's ecological structure and function, particularly as
+the affected habitat will begin to recover and make a contribution to the site
+immediately."
+The assessment has concluded that
+the plan or project as proposed would not adversely affect the integrity of the site
+Date,.01
+Annexes to also include relevant correspondence, minutes or meetings with English Nature, the applicant etc.
+aKec
+Area
+Area 2
+Area 3
+Aroa 4
+Area 5
+Area S
+Aree ?
+27
+Bani
+nner Harbour
+Area 7
+Area 4
+Source: ARCS charl under
+cence number 11535A
+Ate a
+TItie
+Proposed Drelge Areas
+Ar
+Project:
+Falmouth Caplta Dredging
+Client
+Falmouth Harbout
+Commissioners and A&P Ltd
+Scale
+INSERTS
+Date:
+Figure: 41
+arupt
+OUTH HOTEL
+OYAL HASKOMIN
+Annex l
+Date 23rd June 2010
+Our ref: Fal & Helford SAC/Falmouth Docks
+Your ref: 9V1059
+ENGLAND
+Natural England
+Pydar House
+Pydar Street
+Truro
+TR1 1XU
+Nicola Solly
+Haskonning UK Ltd
+Stratus House
+Emperor Way
+Exeter
+EX1 3QS
+Dear Nicola
+Re Information for Appropriate Assessment on Port of Falmouth Development Initiative
+Thank you for your draft report dated 20h May 2010 setting out the information required by
+Falmouth Harbour Commissioners and Falmouth Docks and Engineering Company to
+produce an appropriate assessment
+In my letter to the Marine & Fisheries Agency dated 15th September 2009, I set out details of
+three areas of concern regarding the likely impact of the proposed dredge and replacement
+of maerl, namely:
+. Destruction of the maerl matrix
+.
+.
+.
+Burying of live maerl
+Predicted rates of sedimentation
+Over optimistic rates of recovery
+In the 20h May document Royal Haskonning suggests in the conclusion that "... it is open to
+FHC and FDEC to conclude that the PFDI will not have an adverse effect on the integrity of
+the Fal & Helford SAC " . This is based on the estimate that less than 2% of dead maerl
+within the SAC will be affected by the proposals and only in the medium term." As Relevant
+Authorities, FHC and FDEC are at liberty to draw their own conclusions in their appropriate
+assessment following consultation with Natural England. However we would advise that we
+believe that the argument of no adverse effect on the integrity of the site based on the
+percentage impacted is false. Previous case law supports this, for example in the decision
+regarding Barksore Marshes in Kent, the planning inspector concluded
+" I am aware of no policy guidance to suggest that even small losses (of, say 5% or
+1%) of a valued habitat within an SPA should be regarded as acceptable."
+As the maerl deposits have a limited European distribution, and the Fal and Helford SAC
+represents the only significant occurrence of such habitats in England, Natural England
+believe that the potential losses due to the dredge and replacement of maerl as part of the
+PFDI cannot be regarded as insignificant
+It is further argued by Royal Haskonning that integrity of the SAC will be maintained as the
+extent of maerl within the SAC will be preserved by the replacement of dredged maerl with
+maerl re-deposited at the eastern section of the dredge area. Indeed, it is further argued that
+the area of pure maerl will be increased as a result of the dredge and replacement. Royal
+Haskonning argue that "...neither habitat (of maerl) is more valuable than the other.
+In the Fal and Helford Management scheme, agreed to and signed by FHC and FDEC,
+Conservation Objective 3 (part of the regulation 33 advice package) is "To maintain thee
+SUBTIDAL SANDBANKS in 'favourable condition', taking account of natural change, with
+particular reference to
+. Eelgrass bed communities
+. Maerl bed communities
+. Gravel and sand communities
+. Mixed sediment communities
+The Fal and Helford Management scheme clearly states in the section Subtidal sandbanks
+that in order to meet the above objectives, relevant and competent authorities are advised to
+manage activities within their remit such that they do not result in
+removal and/or smothering
+physical damage resulting from siltation, abrasion and/or selective extraction
+.
+increased synthetic and/or non-synthetic toxic contamination
+nutrient and/or organic enrichment
+*
+. increases in turbidity
+The assessment criteria for the favourable condition of the Maerl bed communities (Table 5
+of the Fal and Helford Management scheme) is set out in the attached Table
+While we would agree that the proposed plan to replace the maerl is likely to maintain the
+extent criteria we would argue that the impact of the dredge and replace will adversely
+impact both the distribution of maerl bed communities and the species composition of maerl
+bed communities attributes, contrary to the conservation objectives for the site, as set out
+The Fal and Helford Management scheme and previously signed up to by FHC and FDEC
+If you have any queries relating to the content of this letter, please contact me at the above
+address
+Regards
+Kevan Cook
+Lead Advisor, Marine
+0300 060 1316
+Direct tel
+kevan.cook@naturalengland orq.uk
+CC (by Email)
+Elaine Young (Marine Management Organisation)
+Mark Sampson (Falmouth Harbour Commissionaires)
+Mike Reynolds (Falmouth Docks & Engineering Company)
+
+OCR Title Updated 1 record.
+Total Updated OCR Title Count : 9
+Total Error Count : 0
+IMAGE DIRECTORY FILES DELETED. [ /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/Falmouth_Harbour_Commissioners_appropriate_assessment_image_4.png ]
+IMAGE DIRECTORY FILES DELETED. [ /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/Falmouth_Harbour_Commissioners_appropriate_assessment_image_2.png ]
+IMAGE DIRECTORY FILES DELETED. [ /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/Falmouth_Harbour_Commissioners_appropriate_assessment_image_3.png ]
+IMAGE DIRECTORY FILES DELETED. [ /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/Falmouth_Harbour_Commissioners_appropriate_assessment_image_1.png ]
+IMAGE DIRECTORY FILES DELETED. [ /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/Falmouth_Harbour_Commissioners_appropriate_assessment_image_5.png ]
+========== OCR TITLE EXTRACT THREAD END ==========
+========== OCR TITLE EXTRACT THREAD START ==========
+TARGET id : uk.gov.www:https/government/uploads/system/uploads/attachment_data/file/332435/Natural_England_consultation_response_3_November_2009.pdf
+TARGET FILE NAME : Natural_England_consultation_response_3_November_2009.pdf
+TOTAL PAGES : 4
+IMAGE FILE PATH : /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/Natural_England_consultation_response_3_November_2009_image_1.png
+IMAGE FILE PATH : /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/Natural_England_consultation_response_3_November_2009_image_2.png
+IMAGE FILE PATH : /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/Natural_England_consultation_response_3_November_2009_image_3.png
+IMAGE FILE PATH : /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/Natural_England_consultation_response_3_November_2009_image_4.png
+ocrContTitle : 3rd November, 2009
+Our Ref:
+Your Ref
+F&H SAC Falmouth Docks 031109
+34539/090805 DC 8778
+arine and Fisheries Agoncy
+Mr YKa Omidire
+Marine Consents Team
+Marine & Fisheries Agency
+Ergon House
+Horseferry Road
+London
+SW1P 2AL
+Natural England
+Pydar House
+Pydar Street
+Truro
+TR1 1XUU
+Tel: 0300 060 2544
+Fax: 0300 060 2545
+곯송
+Food and Environmental Protection Act 1985 / Coast Protection Act - Application for
+Capital Dredge and replacement of maerl, Falmouth Harbour
+Thank you for your letter dated 19 August, received 21 August, together with the CD containing
+the Environmental Statement regarding the proposed dredge and repla
+deposits from Falmouth Harbour.
+cement of maerl
+We can confirm that the proposed dredge and deposition site is located within the boundary
+of the Fal / Helford SAC, an area designated as a European site of conservation importance
+under the provision of the Conservation (Natural Habitats &c.) Reguiations, 1994
+can confirm that, following an appraisal of the evidence presented in the extensive
+documentation supplied by Royal Haskonning in support of this proposed development, Natural
+England considers that the proposal is likely to have a significant effect on the designated
+features of the SAC and therefore requires an appropriate assessment. Natural England is
+of the_ view that there is_sufficient information_contained within the Environmental
+Statement for Marine & Fisheries Agency to undertake an Appropriate Assessmen
+the Conservation (Natural Habitats &c) Regulations 1994
+t under
+The dredge area is largely composed of maerl habitat, listed as a sub-feature of Subtidal
+Sandbanks that forms part of the SAC designation
+The following is included from the Fal & Helford SAC Management Document
+Maerl beds are composed of accumulations of living and dead unattached coralline
+algae. Live maerl is pink and is found in the largest quantities in England and Wales on
+St. Mawes Bank and offers shelter to a large number of other species of plants and
+animals. There are also extensive areas of dead maeri and these sediments are also
+species rich and provide an important habitat for deep burrowing species, attached
+seaweed and large areas of brittle stars
+The proposed dredge seeks to remove up to 60,000 cubic meters of predominantly maerl
+sediment and use this to "recreate" maeri habitat in polygons 17, 18, 20 & 21 (as identified in
+Figure 2-3 of the Environmental Statement). This area was surveyed by Seastar (Axelsson et
+al. 2008) who reported on a number of survey stations. The relevant stations from the Seastar
+survey Characterised the various polygons as being composed of between 50 and 80+% dead
+maerl with between 1 and 10% live maerl
+Natural England have specific concerns regarding this plan namely
+Destruction of the maerl matrix
+It is planned to remove the maerl sediment by use of a backhoe dredge, store the material on
+barge, over dredge the non maerl material to ensure that the required depth of channel is
+reached, then replace the maerl sediment by way of backhoe or hose. Natural England believe
+that the action of maerl sediment removał, storage and replacement will break up the sediment
+matrix, increase the level of fine material thus altering the overall sediment composition, and
+significantly alter the character of the sediment matrix
+. IE, the action of dredging the maerl
+ediment will destroy the matrix that comprises the valuable habitat listed as a sub feature of
+the SAC designation. It will also destroy the small amount of live maerl up to 10% currently
+recorded on the sediment surface. It has been suggested (Hall-Spencer, 2009) that a
+maerl both within the dredge area and across a 20m zone around the dredge area will die a
+result of the dredging. This in itself constitutes a major adverse impact.
+Predicted rates of sedimentation
+The proposed sites for placement of maerl (polygons 17,1820 & 21) are all on the eastern
+edge of the channel. The work done by HR Wallingford (Appendix A of the Environmental
+Statement) on the predicted sediment movement post dredging. Figure 6.6 of that report give
+the predicted annual sand infill across the whole of the proposed channel. Polygons 17 & 21
+to experience up to 1m of sediment erosion while polygons 18 & 20 are predicted
+to experience up to 1m of sediment deposition. This large amount of sediment movement is
+likely to reduce any "beneficia" replacement of maerl and hinder further the recovery of the
+sediment matrix
+These changes in the sediment regime have been identified by Hali-Spencer as impeding the
+recovery of both the
+live maerl and the maerl sediment matrix with its associated biodiversity
+Over optimistic rates of recovery
+Natural England believe that the estimated rate of recovery of the habitat of between 2-5 years
+as stated in the Environmental Statement is over optimistic.
+in the maerl recovery note from Royal Haskoning prepared in 2008, one of the bases for the
+expected recovery rates is from a paper from Phua et al
+abundance generally recovers in 2 years; however, recovery to the previous population
+structure took 4 years." How
+in the
+admits that where t
+. "...dredging sites found that species
+ever, this paper looked at the ecological effects of sand extraction
+North Sea and not maerl sediment extraction and replacement. Even then the author
+he dredging was to a greater depth, the recovery could take much longer
+While Natural England agree that a level of recolonisation will take place and biota will
+eventually re-establish, the species mix that currently
+studies (Hall Spencer & Moore, Hall Spencer) of recovery of maerl beds it has been found that
+four years after scallop dredging some groups of long lived organisms remained significantly
+depleted and also that the effects of scallop dredging were discernable 4 years after the event.
+exists may never fully return. In various
+The majority of previous research into the recovery of maerl habitats has focused on dredging
+carried out by commercial fisheries (where the dredge might penetrate the surface to a
+10cm) and maerl extraction for use as
+post maerl extraction has been less
+of the commercial dredging activities is the scallop fishery which can disrupt the surface of the
+sediment matrix
+depth of
+soil improvement. While analysis of the recovery of a site
+studied, it is widely acknowledged that the most damaging
+The proposals for the dredge in Falmouth harbour are of a much greater magnitude and scale
+than previous documented research, which has considered activities on maerl habitats that
+have impacted the surface layers of maerl. The proposed dredge involves a far gr
+impact than anything that has been studied previously. Therefore it is likely that there will be a
+much greater impact on the habitat, and previous studies do not enable sufficient certainty on
+the potential recovery of habitat.
+eater physical
+The review of the potential for maert recovery undertaken by Jason Hall Spencer, on behalf of
+Royal Haskonning, places further doubt on the assessment of recovery of 2-5 years stated in
+the Environmental Statement. The report highlights the impact
+between dredging and redeployment on the infauna. Any infauna would be ki
+of storing the maerl on a barge
+lled by the
+dredging and storage. These organisms would then begin to decompose causing the maerl
+deposits to become anoxic, hindering any recovery
+tn summarising the likely recovery rates, Hall-Spencer states that the maerl will not recover in
+thi ted 2-5 years and further states "...I would not expect a mature maerl community to
+becuie established for 20-50 years, if at al.
+On the basis of the above information, Natural England advises that the proposed dredge and
+deposition would lead to an adverse impact on the Sandbank features of the Fal and Helford
+SAC, and as such consent cannot be granted without following the process outlined in the
+Conservation (Natural Habitats &c.) Regulations, 1994.
+If, after having carried out an Appropriate Assessment, you are minded to issue the FEPA
+licence, we request the chance to comment on the conclusions of that Assessment, prior to the
+icence being issued.
+Please do not hesitate to contact me if you have any questions or comments on any of the
+points raised in this response.
+Yours Sincerely
+Kevan Cook
+Marine Adviser
+Direct Line 0300 060 1316
+Jenny Christie, Cornwall County (by email)
+Emily Hillman, Environment Agency (by email)
+Nicola Solly, Royal Haskonning (by email)
+Mark Sampson, Falmouth Harbour Commission (by email)
+Mike Reynolds, A&P Falmouth (by email)
+cc
+16th December 2009
+Our Ref:
+Your Ref:
+F&H SAC - Falmouth Docks / 161209
+S94181/L00003/303481/Exet
+Nicole Solly
+Royal Haskonning
+Stratus House
+Exeter
+Devon
+EX1 3QS
+Natural England
+Pydar House
+Pydar Street
+Truro
+TR1 1XU
+Tel: 0300 060 2544
+Fax: 0300 060 2545
+Dear Nicola,
+Port of Falmouth Development Initiative
+Thank you for your letter dated 25th November giving your response to my letter to the Marine and
+Fisheries Agency in which set out Natural England's views of the proposed dredge and replacement of
+maerl sediments. Thank you also for including a copy of the briefing document dated 25h November sent
+to Mark Sampson & Mike Reynolds
+We have been discussing the issues you raise in your letter and our promise of further advice regarding
+what would constitute a significant loss of maerl habitat and have the following advice
+Under article 6.2 of the 1992 Habitats Directive there is a duty to "Avoid deterioration of habitats and
+significant disturbance." You have raised the question as to what constitutes a significant disturbance to
+the maerl sub-feature of the Fal & Helford SAC. In your letter, based on the mapping work undertaken by
+yourself and Harriet Knowles, you estimate that the dredging will impact 2% of the total maerl present
+within the SAC. In determining the likely significant impact of a plan or project on the integrity of a site or
+feature of a site, the ECJ 7/9/04 Ruling on the Waddenzee Cockle Fishing (The Waddenzee Ruling)
+stated that a likeliness to impact should be determined as requiring an
+cannot be excluded, on the basis of objective information, that it will have a significant effect on the site
+if it
+As part of the Integrity test the precautionary principle in the Conservation (Natural Habitats &c)
+Regulations 1994 (The Habs. Regs.) says that for the regulator to ensure there would be no harm, it can
+only issue consent "only after having ascertained that the plan or project will not adversely affect the
+integrity of the European site." This is further backed by the statement that the Competent Authority
+should be "certain" about the lack of adverse effects
+The problem we have in determining extent of the possible adverse impact of the proposed dredge and
+replacement of the maerl sediment matrix is there have been no previous attempts at such a project
+Given this lack of data on this type of operation, the ambiguity regarding the recovery rate and the
+identified habitat loss, it must be concluded that the proposed plan could lead to an adverse impact on
+the integrity of the SAC. Furthermore, it is not possible to allocate a number to what percentage of loss /
+area impacted could be considered as acceptable and not likely to have an adverse impact on the
+integrity of the SAGC
+Please do not hesitate to contact me if you have any questions or require further information
+Yours sincerely
+Kevan Cook
+Maritime Advisor
+Natural England
+Direct Line: 0300 060 1316
+Yinka Omidire, M&FA
+Mike Reynolds, A&P Falmouth
+Mark Sampson, FHOC
+CC (by email)
+
+3rd November, 2009
+Our Ref:
+Your Ref
+F&H SAC Falmouth Docks 031109
+34539/090805 DC 8778
+arine and Fisheries Agoncy
+Mr YKa Omidire
+Marine Consents Team
+Marine & Fisheries Agency
+Ergon House
+Horseferry Road
+London
+SW1P 2AL
+Natural England
+Pydar House
+Pydar Street
+Truro
+TR1 1XUU
+Tel: 0300 060 2544
+Fax: 0300 060 2545
+곯송
+Food and Environmental Protection Act 1985 / Coast Protection Act - Application for
+Capital Dredge and replacement of maerl, Falmouth Harbour
+Thank you for your letter dated 19 August, received 21 August, together with the CD containing
+the Environmental Statement regarding the proposed dredge and repla
+deposits from Falmouth Harbour.
+cement of maerl
+We can confirm that the proposed dredge and deposition site is located within the boundary
+of the Fal / Helford SAC, an area designated as a European site of conservation importance
+under the provision of the Conservation (Natural Habitats &c.) Reguiations, 1994
+can confirm that, following an appraisal of the evidence presented in the extensive
+documentation supplied by Royal Haskonning in support of this proposed development, Natural
+England considers that the proposal is likely to have a significant effect on the designated
+features of the SAC and therefore requires an appropriate assessment. Natural England is
+of the_ view that there is_sufficient information_contained within the Environmental
+Statement for Marine & Fisheries Agency to undertake an Appropriate Assessmen
+the Conservation (Natural Habitats &c) Regulations 1994
+t under
+The dredge area is largely composed of maerl habitat, listed as a sub-feature of Subtidal
+Sandbanks that forms part of the SAC designation
+The following is included from the Fal & Helford SAC Management Document
+Maerl beds are composed of accumulations of living and dead unattached coralline
+algae. Live maerl is pink and is found in the largest quantities in England and Wales on
+St. Mawes Bank and offers shelter to a large number of other species of plants and
+animals. There are also extensive areas of dead maeri and these sediments are also
+species rich and provide an important habitat for deep burrowing species, attached
+seaweed and large areas of brittle stars
+The proposed dredge seeks to remove up to 60,000 cubic meters of predominantly maerl
+sediment and use this to "recreate" maeri habitat in polygons 17, 18, 20 & 21 (as identified in
+Figure 2-3 of the Environmental Statement). This area was surveyed by Seastar (Axelsson et
+al. 2008) who reported on a number of survey stations. The relevant stations from the Seastar
+survey Characterised the various polygons as being composed of between 50 and 80+% dead
+maerl with between 1 and 10% live maerl
+Natural England have specific concerns regarding this plan namely
+Destruction of the maerl matrix
+It is planned to remove the maerl sediment by use of a backhoe dredge, store the material on
+barge, over dredge the non maerl material to ensure that the required depth of channel is
+reached, then replace the maerl sediment by way of backhoe or hose. Natural England believe
+that the action of maerl sediment removał, storage and replacement will break up the sediment
+matrix, increase the level of fine material thus altering the overall sediment composition, and
+significantly alter the character of the sediment matrix
+. IE, the action of dredging the maerl
+ediment will destroy the matrix that comprises the valuable habitat listed as a sub feature of
+the SAC designation. It will also destroy the small amount of live maerl up to 10% currently
+recorded on the sediment surface. It has been suggested (Hall-Spencer, 2009) that a
+maerl both within the dredge area and across a 20m zone around the dredge area will die a
+result of the dredging. This in itself constitutes a major adverse impact.
+Predicted rates of sedimentation
+The proposed sites for placement of maerl (polygons 17,1820 & 21) are all on the eastern
+edge of the channel. The work done by HR Wallingford (Appendix A of the Environmental
+Statement) on the predicted sediment movement post dredging. Figure 6.6 of that report give
+the predicted annual sand infill across the whole of the proposed channel. Polygons 17 & 21
+to experience up to 1m of sediment erosion while polygons 18 & 20 are predicted
+to experience up to 1m of sediment deposition. This large amount of sediment movement is
+likely to reduce any "beneficia" replacement of maerl and hinder further the recovery of the
+sediment matrix
+These changes in the sediment regime have been identified by Hali-Spencer as impeding the
+recovery of both the
+live maerl and the maerl sediment matrix with its associated biodiversity
+Over optimistic rates of recovery
+Natural England believe that the estimated rate of recovery of the habitat of between 2-5 years
+as stated in the Environmental Statement is over optimistic.
+in the maerl recovery note from Royal Haskoning prepared in 2008, one of the bases for the
+expected recovery rates is from a paper from Phua et al
+abundance generally recovers in 2 years; however, recovery to the previous population
+structure took 4 years." How
+in the
+admits that where t
+. "...dredging sites found that species
+ever, this paper looked at the ecological effects of sand extraction
+North Sea and not maerl sediment extraction and replacement. Even then the author
+he dredging was to a greater depth, the recovery could take much longer
+While Natural England agree that a level of recolonisation will take place and biota will
+eventually re-establish, the species mix that currently
+studies (Hall Spencer & Moore, Hall Spencer) of recovery of maerl beds it has been found that
+four years after scallop dredging some groups of long lived organisms remained significantly
+depleted and also that the effects of scallop dredging were discernable 4 years after the event.
+exists may never fully return. In various
+The majority of previous research into the recovery of maerl habitats has focused on dredging
+carried out by commercial fisheries (where the dredge might penetrate the surface to a
+10cm) and maerl extraction for use as
+post maerl extraction has been less
+of the commercial dredging activities is the scallop fishery which can disrupt the surface of the
+sediment matrix
+depth of
+soil improvement. While analysis of the recovery of a site
+studied, it is widely acknowledged that the most damaging
+The proposals for the dredge in Falmouth harbour are of a much greater magnitude and scale
+than previous documented research, which has considered activities on maerl habitats that
+have impacted the surface layers of maerl. The proposed dredge involves a far gr
+impact than anything that has been studied previously. Therefore it is likely that there will be a
+much greater impact on the habitat, and previous studies do not enable sufficient certainty on
+the potential recovery of habitat.
+eater physical
+The review of the potential for maert recovery undertaken by Jason Hall Spencer, on behalf of
+Royal Haskonning, places further doubt on the assessment of recovery of 2-5 years stated in
+the Environmental Statement. The report highlights the impact
+between dredging and redeployment on the infauna. Any infauna would be ki
+of storing the maerl on a barge
+lled by the
+dredging and storage. These organisms would then begin to decompose causing the maerl
+deposits to become anoxic, hindering any recovery
+tn summarising the likely recovery rates, Hall-Spencer states that the maerl will not recover in
+thi ted 2-5 years and further states "...I would not expect a mature maerl community to
+becuie established for 20-50 years, if at al.
+On the basis of the above information, Natural England advises that the proposed dredge and
+deposition would lead to an adverse impact on the Sandbank features of the Fal and Helford
+SAC, and as such consent cannot be granted without following the process outlined in the
+Conservation (Natural Habitats &c.) Regulations, 1994.
+If, after having carried out an Appropriate Assessment, you are minded to issue the FEPA
+licence, we request the chance to comment on the conclusions of that Assessment, prior to the
+icence being issued.
+Please do not hesitate to contact me if you have any questions or comments on any of the
+points raised in this response.
+Yours Sincerely
+Kevan Cook
+Marine Adviser
+Direct Line 0300 060 1316
+Jenny Christie, Cornwall County (by email)
+Emily Hillman, Environment Agency (by email)
+Nicola Solly, Royal Haskonning (by email)
+Mark Sampson, Falmouth Harbour Commission (by email)
+Mike Reynolds, A&P Falmouth (by email)
+cc
+16th December 2009
+Our Ref:
+Your Ref:
+F&H SAC - Falmouth Docks / 161209
+S94181/L00003/303481/Exet
+Nicole Solly
+Royal Haskonning
+Stratus House
+Exeter
+Devon
+EX1 3QS
+Natural England
+Pydar House
+Pydar Street
+Truro
+TR1 1XU
+Tel: 0300 060 2544
+Fax: 0300 060 2545
+Dear Nicola,
+Port of Falmouth Development Initiative
+Thank you for your letter dated 25th November giving your response to my letter to the Marine and
+Fisheries Agency in which set out Natural England's views of the proposed dredge and replacement of
+maerl sediments. Thank you also for including a copy of the briefing document dated 25h November sent
+to Mark Sampson & Mike Reynolds
+We have been discussing the issues you raise in your letter and our promise of further advice regarding
+what would constitute a significant loss of maerl habitat and have the following advice
+Under article 6.2 of the 1992 Habitats Directive there is a duty to "Avoid deterioration of habitats and
+significant disturbance." You have raised the question as to what constitutes a significant disturbance to
+the maerl sub-feature of the Fal & Helford SAC. In your letter, based on the mapping work undertaken by
+yourself and Harriet Knowles, you estimate that the dredging will impact 2% of the total maerl present
+within the SAC. In determining the likely significant impact of a plan or project on the integrity of a site or
+feature of a site, the ECJ 7/9/04 Ruling on the Waddenzee Cockle Fishing (The Waddenzee Ruling)
+stated that a likeliness to impact should be determined as requiring an
+cannot be excluded, on the basis of objective information, that it will have a significant effect on the site
+if it
+As part of the Integrity test the precautionary principle in the Conservation (Natural Habitats &c)
+Regulations 1994 (The Habs. Regs.) says that for the regulator to ensure there would be no harm, it can
+only issue consent "only after having ascertained that the plan or project will not adversely affect the
+integrity of the European site." This is further backed by the statement that the Competent Authority
+should be "certain" about the lack of adverse effects
+The problem we have in determining extent of the possible adverse impact of the proposed dredge and
+replacement of the maerl sediment matrix is there have been no previous attempts at such a project
+Given this lack of data on this type of operation, the ambiguity regarding the recovery rate and the
+identified habitat loss, it must be concluded that the proposed plan could lead to an adverse impact on
+the integrity of the SAC. Furthermore, it is not possible to allocate a number to what percentage of loss /
+area impacted could be considered as acceptable and not likely to have an adverse impact on the
+integrity of the SAGC
+Please do not hesitate to contact me if you have any questions or require further information
+Yours sincerely
+Kevan Cook
+Maritime Advisor
+Natural England
+Direct Line: 0300 060 1316
+Yinka Omidire, M&FA
+Mike Reynolds, A&P Falmouth
+Mark Sampson, FHOC
+CC (by email)
+
+OCR Title Updated 1 record.
+Total Updated OCR Title Count : 10
+Total Error Count : 0
+IMAGE DIRECTORY FILES DELETED. [ /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/Natural_England_consultation_response_3_November_2009_image_4.png ]
+IMAGE DIRECTORY FILES DELETED. [ /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/Natural_England_consultation_response_3_November_2009_image_3.png ]
+IMAGE DIRECTORY FILES DELETED. [ /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/Natural_England_consultation_response_3_November_2009_image_1.png ]
+IMAGE DIRECTORY FILES DELETED. [ /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/Natural_England_consultation_response_3_November_2009_image_2.png ]
+========== OCR TITLE EXTRACT THREAD END ==========
+========== OCR TITLE EXTRACT THREAD START ==========
+TARGET id : uk.gov.www:https/government/uploads/system/uploads/attachment_data/file/332436/Cornwall_Sea_Fisheries_Committee_consultation_comments.pdf
+TARGET FILE NAME : Cornwall_Sea_Fisheries_Committee_consultation_comments.pdf
+TOTAL PAGES : 4
+IMAGE FILE PATH : /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/Cornwall_Sea_Fisheries_Committee_consultation_comments_image_1.png
+IMAGE FILE PATH : /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/Cornwall_Sea_Fisheries_Committee_consultation_comments_image_2.png
+IMAGE FILE PATH : /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/Cornwall_Sea_Fisheries_Committee_consultation_comments_image_3.png
+IMAGE FILE PATH : /pepper/haena-pepper-1.0.0/file/test_crawl_id_3850_1/image/Cornwall_Sea_Fisheries_Committee_consultation_comments_image_4.png
+========== OCR TITLE EXTRACT THREAD END ==========
