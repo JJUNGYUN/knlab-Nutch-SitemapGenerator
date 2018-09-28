@@ -25,6 +25,16 @@ import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+import java.util.ArrayList;
+import java.util.StringTokenizer;
 
 import org.apache.commons.lang.StringUtils;
 import org.apache.hadoop.conf.Configuration;
@@ -61,7 +71,79 @@ public class Crawler extends NutchTool implements Tool {
   public Map<String,Object> getStatus() {
     return status;
   }
-  
+	public static String change(String id) {
+		StringTokenizer a = new StringTokenizer(id, ":");
+		String domain= a.nextToken();
+		StringTokenizer b = new StringTokenizer(domain, ".");
+		String c = b.nextToken();
+		while(b.hasMoreTokens()){
+			c = b.nextToken()+"."+c;
+
+		}
+		String url = a.nextToken();
+		StringTokenizer d = new StringTokenizer(url, "/");
+		String urls = urls = d.nextToken()+"://"+c+ "/";
+		System.out.println(urls);
+		while(d.hasMoreTokens()) {
+			urls = urls + d.nextToken() + "/";
+		}
+		
+		return urls+"\r\n";
+	}
+	 public static void to_txt() {
+	        Connection connection = null;
+	        Statement st = null;
+	        FileOutputStream output = null;
+			try {
+				output = new FileOutputStream("url.txt");
+			} catch (FileNotFoundException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			}catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			
+
+	        try {
+	            Class.forName("com.mysql.cj.jdbc.Driver");
+	            connection = DriverManager.getConnection("jdbc:mysql://kitcilab.iptime.org:3306/GPS?serverTimezone=UTC" , "root", "cilab!23");
+	            st = connection.createStatement();
+	 
+	            String sql = "select * FROM webpage;";
+	            
+	            Statement stmt = connection.createStatement();
+	            ResultSet result = stmt.executeQuery(sql);
+
+	            while(result.next())
+                {
+	            	output.write(change(result.getString("id")).getBytes());
+                }
+	            
+	            stmt.close();
+	            st.close();
+	            connection.close();
+	           
+	            
+	        } catch (SQLException se1) {
+	            se1.printStackTrace();
+	        } catch (Exception ex) {
+	            ex.printStackTrace();
+	        } finally {
+	            try {
+	                if (st != null)
+	                    st.close();
+	            } catch (SQLException se2) {
+	            }
+	            try {
+	                if (connection != null)
+	                    connection.close();
+	            } catch (SQLException se) {
+	                se.printStackTrace();
+	            }
+	        }    
+
+	    }
   private Map<String,Object> runTool(Class<? extends NutchTool> toolClass,
       Map<String,Object> args) throws Exception {
     currentTool = (NutchTool)ReflectionUtils.newInstance(toolClass, getConf());
@@ -187,6 +269,7 @@ public class Crawler extends NutchTool implements Tool {
         return results;
       }
     }
+    to_txt();
     if (solrUrl != null) {
       status.put(Nutch.STAT_PHASE, "index");
       jobRes = runTool(SolrIndexerJob.class, args);
