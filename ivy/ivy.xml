@@ -66,6 +66,12 @@
     <dependency org="com.ibm.icu" name="icu4j" rev="4.0.1" />
     <dependency org="org.apache.tika" name="tika-core" rev="1.3" />
     <dependency org="com.googlecode.juniversalchardet" name="juniversalchardet" rev="1.0.3"/>
+<<<<<<< HEAD
+=======
+    
+	<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+    <dependency org="mysql" name="mysql-connector-java" rev="5.1.6"/>
+>>>>>>> txt
 
     <dependency org="log4j" name="log4j" rev="1.2.15" conf="*->master" />
 
